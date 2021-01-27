@@ -1,0 +1,501 @@
+﻿instituția sursă,sex,vârstă,dată debut simptome declarate,simptome declarate,dată internare,simptome raportate la internare,diagnostic și semne de internare,istoric de călătorie,mijloace de transport folosite,confirmare contact cu o persoană infectată,data rezultat testare,rezultat testare
+X,MASCULIN,52,2020-03-23 00:00:00,"febra,tuse productiva, mialgii",2020-03-30 00:00:00,"dispnee marcata de decubit,cianoza periorala","Suspiciune infectie COVID 19, Stare febrila",NU,NU,NU,2020-03-25 00:00:00,POZITIV
+Y,FEMININ,40,2020-06-18 00:00:00,ASIMPTOMATICA,2020-06-18 00:00:00,ASIMPTOMATICA,ANEXITA DREAPTA. SUSPICIUNE TORSIUNE ANEXA DREAPTA. SUSPICIUNE APENDICITA ACUTA. ,NU,NU,NU,2020-03-27 00:00:00,NEGATIV
+Y,MASCULIN,44,2020-05-22 00:00:00,ASIMPTOMATIC COVID,2020-05-26 00:00:00,ASIMPTOMATIC COVID,"DURERI ABDOMINALE,COLECISTITA ACUTA LITIAZICA",NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-03-30 00:00:00,POZITIV
+X,MASCULIN,64,2020-04-06 00:00:00,"dispnee,edeme,",2020-04-14 00:00:00,"dispnee,edeme","susp.Covid 19,cord pulmonar cronic decompensat",NU,NU,NU,2020-03-31 00:00:00,NEGATIV
+X,MASCULIN,53,2020-03-23 00:00:00,"febra, durere epigastrica, tuse seaca",2020-04-01 00:00:00,"febra, durere epigastrica, tuse seaca",Suspiciune COVID-19,NU,NU,nu cunoaste,2020-03-31 00:00:00,NEGATIV
+X,FEMININ,49,2020-04-26 00:00:00,"TUSE,FEBRA",2020-04-28 00:00:00,"TUSE,FEBRA","SUSP.INF COVID 19,PNEUMONIE STG",NU,NU,NU,2020-03-31 00:00:00,NEGATIV
+X,MASCULIN,79,Medicina Interna 2,"tuse,febra,dispnee",2020-04-03 00:00:00,"tuse,febra","Bronhopneumonie, Suspiciune infectie COVID 19",NU,NU,NU,2020-04-03 00:00:00,POZITIV
+X,FEMININ,82,2020-03-26 00:00:00,ASMTOMATIC COVID,2020-03-26 00:00:00,TUSE SEARA,"PLASTRON COLECISTIC, ANEMIE BIERMER",NU A CALATORIT,NU E CAZUL,NU E CAZUL,2020-04-03 00:00:00,POZITIV
+X,FEMININ,62,2020-04-04 00:00:00,"dispnee,fatigabilitate",2020-04-09 00:00:00,"dispnee marcata de decubit,cianoza periorala",Pneumonie cu COVID 19 pozitiva. Insuficienta respiratorie acuta. Boala Waldenstrom. Leucopenie sec. HTA st.II cu risc inalt. CIC. FiA.,NU,NU,NU,2020-04-04 00:00:00,POZITIV
+X,FEMININ,2 LUNI,06.05.2020,TUSE,06.05.2020,TUSE,TUSE,0,0,0,2020-04-04 00:00:00,POZITIV
+X,FEMININ,43,2020-03-30 00:00:00,"febra,frison,tuse seaca, inapetenta",2020-04-09 00:00:00,"dispnee marcata de decubit,cianoza periorala",Pneumonie acuta interstitiala. Infectie COVID-19 pozitiva.Insuficienta respiratorie acuta. Hepatopatie cronica de etiologie nespecificata,NU,NU,NU,2020-04-05 00:00:00,POZITIV
+X,MASCULIN,51,2020-04-16 00:00:00,"DISPNEE,EDEME",2020-04-14 00:00:00,FEBRA,"FEBRA,DISPNEE/SUSPICIUNE COVID19",NU,NU,NU,2020-04-06 00:00:00,NEGATIV
+X,MASCULIN,69,2020-03-30 00:00:00,"febra, tuse seaca",2020-04-06 00:00:00,"tuse seaca, dispnee, febra",Pneumopatie acuta. Suspect COVID,NU,NU,neaga,2020-04-06 00:00:00,POZITIV
+Z,MASCULIN,47,2020-04-23 00:00:00,"dispnee,junghi toracic",2020-04-24 00:00:00,"dispnee,junghi tor.","SUSP.INF.COVID, BPOC ST IV",NU,NU,NU,2020-04-06 00:00:00,NEGATIV
+X,MASCULIN,38,2020-04-02 00:00:00,"tuse, febra, dispnee de repaus",2020-04-04 00:00:00,"tuse, febra, dispnee de repaus",Pneumopatie iunterstitiala. Suspect COVID,DA,TIR,nu cunoaste,2020-04-07 00:00:00,NEGATIV
+Z,FEMININ,60,2020-05-04 00:00:00,FATIGABILITATE CEFELEE  INAPETENTA,2020-05-04 00:00:00,FATIGABILITATE CEFELEE  INAPETENTA,SUSPICIUNE  INFECTIE SARS COV 2  LEUCEMIE ACUTA  MIELOCITARA,NU,NU,NU,2020-04-07 00:00:00,NEGATIV
+X,MASCULIN,71,2020-03-12 00:00:00,"dispnee, tuse",2020-03-19 00:00:00,"dispnee, tuse",astm bronsic,NU,NU,NU,2020-04-07 00:00:00,NEGATIV
+X,MASCULIN,53,2020-03-26 00:00:00,criza comitiala,2020-03-26 00:00:00,"melena, hematemeza",HDS,NU,NU,DA,2020-04-07 00:00:00,NEGATIV
+X,MASCULIN,73,2020-04-01 00:00:00,"frison, febra 37,7",03.04.20 NEFROLOGIE transferat la Pneumo 2 in data de 10.04.20,"frison, febra 37,7","frison, febra 37,7, infectie SARS-COV-2 confirmata",NU,NU,NU,2020-04-07 00:00:00,POZITIV
+X,MASCULIN,70,07.04.2020,"DISPNEE,TUSE",07.04.2020,"DISPNEE,TUSE",DISPNEE CU ORTOPNEE,NU,NU,NU,2020-04-07 00:00:00,NEGATIV
+X,MASCULIN,69,07.04.2020,DISPNEE CU ORTOPNEE,07.04.2020,TUSE,DISPNEE CU ORTOPNEE,NU,NU,NU,2020-04-07 00:00:00,NEGATIV
+X,FEMININ,72,2020-04-05 00:00:00,tuse,08.04.2020 Boli Infectioase - transferat la Pneumologie II in data de 10.04.2020,"Sp O2- 88%, tuse iritativa,  astenie marcata, febra 37,5","Sp O2- 88%, tuse iritativa,  astenie marcata, febra 37,5  Infectie SARS-COV-2 confirmata",NU,NU,NU,2020-04-08 00:00:00,POZITIV
+X,MASCULIN,39,2020-04-08 00:00:00,FEBRA,2020-04-08 00:00:00,"FEBRA,DISPNEE","FEBRA, DISNEE/INSUFICIENTA RESPIRATORIE",NU,NU,NU,2020-04-08 00:00:00,POZITIV
+X,FEMININ,68,2020-04-07 00:00:00,"tuse, durere gat",2020-04-08 00:00:00,"tuse, durere gat",bronhopneumonie,NU,NU,DA,2020-04-08 00:00:00,NEGATIV
+X,FEMININ,50,2020-04-05 00:00:00,"tuse, subfebrilutati",2020-04-08 00:00:00,"subfebrilitate, tuse, mialgii, cefalee, astenie",Pneumopatie interstitiala,Nu,NU,Posibil,2020-04-08 00:00:00,NEGATIV
+X,MASCULIN,60,2020-04-02 00:00:00,"tuse seaca, dispnee de repaus, inapetenat, febra 38 grade C.",2020-04-09 00:00:00,"tuse seaca, dispnee de repaus, inapetenat, afebril, desaturare, consult ATI","tuse seaca, dispnee de repaus, inapetenat, febra 38 grade C, SARS-COV-2 confirmat",NU,NU,-,2020-04-09 00:00:00,POZITIV
+X,MASCULIN,64,2020-03-31 00:00:00,"febra, tuse,",2020-04-09 00:00:00,"febra, tuse , dispnee","bronhopneumonie, suspect infectie covid 19, DZII",da-sotia SUA,avion,posibil,2020-04-09 00:00:00,POZITIV
+X,FEMININ,6,2020-04-05 00:00:00,dureri abdominale,2020-04-09 00:00:00,dureri abdominale,"sind.dureros abdominal, formatiune tumorala rinichi stang, nefroblastom",NU,NU,NU,2020-04-09 00:00:00,NEGATIV
+X,MASCULIN,71,2020-04-01 00:00:00,"subfebra,tuse",2020-04-08 00:00:00,"dispnee,subfebrilitatate,tuse","Bronhopneumonie,Insuf,respiratorie acuti",NU,NU,NU,2020-04-09 00:00:00,POZITIV
+X,MASCULIN,74,2020-04-07 00:00:00,"febra, inapententa, cefalee, dispnee",09.04.2020 BIA CP tranfer Pneumologie II IN 12.04.2020,"febra, inapententa, cefalee, dispnee","pneumonie lob inferior bilateral, insuficienta respiratorie OLD la domiciliu,",NU,NU,NU,2020-04-09 00:00:00,POZITIV
+X,FEMININ,59,2020-04-08 00:00:00,FEBRA,2020-04-08 00:00:00,"GREATA,TUSE",SUSPICIUNE CORONAVIRUS SARS-COV-2,NU,NU,NU,2020-04-09 00:00:00,NEGATIV
+X,FEMININ,61,2020-04-01 00:00:00,dispnee,2020-04-08 00:00:00,dispnee,insuficienta respiratorie acuta,NU,NU,NU,2020-04-09 00:00:00,NEGATIV
+X,MASCULIN,61,2020-04-10 00:00:00,"ASIMOTINATIC COVID, GANGRENA BONT AMPUATIE ANTEPICIOR DREPT",2020-04-10 00:00:00,ASIMPTOMATIC,GANGRENA BONT AMPUTATIE MB INF DREPT,NU A CALATORIT,NU E CAZUL,CONTACT CU PACIENT POZITIV LA CENTRUL DE DIALIZA BRAUN,2020-04-10 00:00:00,POZITIV
+Z,MASCULIN,49,2020-04-01 00:00:00,"tuse, cefalee, astenie, scadere tolorentei la efort",08.04.2020 BIA – 09.04.2020 transfer ATI COVID,"dispnee marcata de decubit,cianoza periorala",Insuficienta respiratori acuta protezata mecanic. Bronhopneumonie - suspiciune COVID 19. DZ tip II tratat cu insulina si ADO dezechilibrat. HTA es. Obezitate gr.II,DA,masina,nu cunoaste,2020-04-10 00:00:00,POZITIV
+X,FEMININ,44,2020-04-09 00:00:00,"subfebrilitati, toracalgii",2020-04-11 00:00:00,"tuse seaca, subfebrilitate , toracalgii, mialgii","tuse seaca, subfebrilitate , toracalgii, mialgii Infecrie SARS-COV-2 confirmata",NU,NU,DA,2020-04-10 00:00:00,POZITIV
+X,FEMININ,48,2020-04-04 00:00:00,"tuse seaca, rar expectoratie mucoasa, odinofagie.",2020-04-11 00:00:00,"tuse seaca, rar expectoratie mucoasa, odinofagie.","tuse seaca, rar expectoratie mucoasa, odinofagie,frisoane, cefalee,lombalgii, saturatie -97% Infecrie SARS-COV-2 confirmata",NU,NU,DA,2020-04-10 00:00:00,POZITIV
+X,FEMININ,56,2020-04-04 00:00:00,"tuse seaca, mialgii,dispnee de repaus, odinofagie, inapetenta, frison,saturatie -98%, TA =150/80",2020-04-10 00:00:00,"tuse seaca, mialgii,dispnee de repaus, odinofagie, inapetenta, frison,saturatie -98%, TA =150/80","tuse seaca, mialgii,dispnee de repaus, odinofagie, inapetenta, frison,saturatie -98%, TA =150/80 Infectie SARS-COV-2 confirmata",NU,NU,DA,2020-04-10 00:00:00,POZITIV
+X,FEMININ,80,2020-03-20 00:00:00,"febra 38,00 grade C, transpiratii nocturne",23.03.2020 Medicina Inetrna 2. transfer Pneumologie II in 12.04.2020,"febra 38,00 grade C, transpiratii nocturne, dispnee, cefalee","febra 38,00 grade C, transpiratii nocturne, dispnee, cefalee",NU,NU,NU,2020-04-10 00:00:00,POZITIV
+X,FEMININ,72,2020-04-07 00:00:00,"inapetenta, tuse",2020-04-10 00:00:00,tuse,pneumopatie suspect COVID19,NU,NU,NU,2020-04-10 00:00:00,POZITIV
+X,FEMININ,51,2020-04-08 00:00:00,ASIMPTOMATIC,2020-04-08 00:00:00,ICTER MECA,ICTER MECA,NU,NU,DA,2020-04-10 00:00:00,NEGATIV
+X,FEMININ,29,2020-04-10 00:00:00,"ASIMPTOMATIC COVID, DURERE HIPOCONDRUL DRT,",2020-04-14 00:00:00,ASIMPTOMATIC,"COLECISTITA CRONICA LITIAZICA, STATUS POST ERCP",NU A CALATORIT,NU E CAZUL,NU E CAZUL,2020-04-10 00:00:00,POZITIV
+X,MASCULIN,86,2020-04-07 00:00:00,dispnee,2020-04-10 00:00:00,dispnee,pneumonie bilaterala suspect COVID19,NU,NU,NU,2020-04-10 00:00:00,POZITIV
+X,FEMININ,48,2020-04-04 00:00:00,"cefalee, intensa, arsura retrosternala",2020-04-11 00:00:00,"cefalee intensa , frisoane, epistaxis, odinofagie, arsura retrosternala","cefalee intensa , frisoane, epistaxis, odinofagie, arsura retrosternala Infecrie SARS-COV-2 confirmata",NU,NU,DA,2020-04-10 00:00:00,POZITIV
+X,FEMININ,42,2020-04-08 00:00:00,"temperatura -37.2, tuse seaca, mialgii, scaune diareice",2020-04-11 00:00:00,"tuse seaca, subfebrilitati, frisoane, odinofagie, mialgii,scaune diareice 2-3/zi","tuse seaca , subfebrilitati, frisoane, odinofagie, mialgii,scaune diareice 2-3/zi Infecrie SARS-COV-2 confirmata",NU,NU,DA,2020-04-10 00:00:00,POZITIV
+X,FEMININ,36,2020-04-06 00:00:00,"dispnee la efort  mic, tuse iritativa,astenie marcata, febra 37,4 grade C.",2020-04-11 00:00:00,"cefalee intensa,mialgii, tuse seaca , frisoane, anosmie","cefalee intensa,mialgii, tuse seaca , frisoane, anosmie Infecrie SARS-COV-2 confirmata",NU,NU,DA,2020-04-10 00:00:00,POZITIV
+X,MASCULIN,71,2020-03-28 00:00:00,"tuse, cefalee",2020-04-10 00:00:00,"cefalee, tuse",pneumonie bilaterala suspect COVID19,NU,NU,NU,2020-04-10 00:00:00,POZITIV
+X,FEMININ,48,2020-04-07 00:00:00,"cefalee, mialgii, afebrila, tuse cu expectoratie muco-purulenta",2020-04-11 00:00:00,"cefalee, tuse cu expectoratie muco purulenta,odinofagie,mialgii","cefalee, tuse cu expectoratie muco purulenta,odinofagie,mialgii Infecrie SARS-COV-2 confirmata",NU,NU,DA,2020-04-10 00:00:00,POZITIV
+X,FEMININ,55,2020-04-10 00:00:00,"ASIMTOMATIC COVID, DURERE REG FESIERA STG",2020-04-10 00:00:00,ASIMPTOMATIC,"ABCES FESIER STANG, STARE SEPTICA",NU A CALATORIT,NU E CAZUL,NU E CAZUL,2020-04-10 00:00:00,POZITIV
+X,FEMININ,69,2020-04-10 00:00:00,ASIMPTOMATIC,2020-04-10 00:00:00,ABCES ISCHIO-RECTAL STANG,ABCES ISCHIO-RECTAL STANG,NU,NU,DA,2020-04-10 00:00:00,NEGATIV
+X,FEMININ,60,2020-03-31 00:00:00,"astenie, fatigabilitate, greturi, tuse seaca",2020-04-03 00:00:00,"febra, tuse seaca, astenie, fatigabiliate, greturi, dispnee","Pneumopatie LIB, Suspect COVID",NU,NU,nu cunoaste,2020-04-10 00:00:00,NEGATIV
+X,MASCULIN,65,2020-04-05 00:00:00,febra,2020-04-10 00:00:00,febra,pneumonie bilaterala suspect COVID19,NU,NU,NU,2020-04-10 00:00:00,POZITIV
+X,MASCULIN,74,BI CICIO POP,"febra, tuse",2020-04-10 00:00:00,"febra tuse ,astenie","Pneumonie bilaterala, Infectie SARS-CoV2, Insuficienta respiratorie acuta, LAM, DZ tip 2 insulinonecesitant, CIC, ICC NYHA II, BCR std III, pancitopenie",NU,NU,NU,2020-04-10 00:00:00,POZITIV
+X,MASCULIN,63,2020-04-10 00:00:00,"ASIMPTOMATIC COVID, DURERE HALUCE,",2020-04-10 00:00:00,ASIMPTOMATIC,"GANGRENA DIABETICA HALUCE STANG, STARE SEPTICA", NU A CALATORIT,NU E CAZUL,NU E CAZUL,2020-04-10 00:00:00,POZITIV
+X,FEMININ,65,2020-04-10 00:00:00,NU,2020-04-10 00:00:00,NU,tentativa suicid,NU,NU,NU,2020-04-10 00:00:00,NEGATIV
+X,FEMININ,44,2020-04-10 00:00:00,"dispnee la eforturi mici,in rest asimptomatica",2020-04-11 00:00:00,"dispnee la eforturi mici,in rest asimptomatica","dispnee la eforturi mici,in rest asimptomatica Infecrie SARS-COV-2 confirmata",NU,NU,DA,2020-04-10 00:00:00,POZITIV
+X,FEMININ,84,2020-04-07 00:00:00,febra 38,2020-04-07 00:00:00,HEMATEMEZA,HDS (HEMATEMEZA) CARDIOPATIE MIXTA CU FEN. IVS.,NU,NU,NU,2020-04-10 00:00:00,NEGATIV
+X,FEMININ,35,2020-03-29 00:00:00,"febra, frison, inapetenta, tuse",2020-04-11 00:00:00,"febra, tuse",suspiciune infectie covid 19,NU,NU,NU,2020-04-11 00:00:00,NEGATIV
+X,MASCULIN,49,2020-04-10 00:00:00,"dureri abdominale, greturi, scaune diareice",2020-04-11 00:00:00,scaune diareice,"pneumonie LID, suspect COVID19",NU,NU,NU,2020-04-11 00:00:00,NEGATIV
+X,MASCULIN,68,2020-04-08 00:00:00,durere toracica anterioara,2020-04-08 00:00:00,fara acuze,"1.stenoza aortica severa, 2. sindrom anemic",NU,NU,DA,2020-04-11 00:00:00,NEGATIV
+X,MASCULIN,66,2020-04-10 00:00:00,pierderea fortei musculare,2020-04-11 00:00:00,pierderea fortei musculare,pneumonie lob inferior drept suspect COVID19,NU,NU,NU,2020-04-11 00:00:00,POZITIV
+X,FEMININ,19,2020-03-25 00:00:00,febra tuse,2020-04-11 00:00:00,ASIMPTOMATIC,sarcina 37 saptamani in evolutie Suspect COVID,NU,NU,NU,2020-04-11 00:00:00,POZITIV
+Y,FEMININ,37,2020-07-02 00:00:00,"TEGUMENTE PALIDE, ASTENIE",2020-07-03 00:00:00,VALORI SCAZUTE ALE HEMOGLOBINEI,"ANEMIE HIPOCROMA MICROCITARA SEVERA, DIABET ZAHARAT TIP 2, SUSPICIUNE INFECTIE SARS-COV-2",NU,NU ,NU,2020-04-11 00:00:00,NEGATIV
+X,FEMININ,68,2020-04-11 00:00:00,ASIMPTOMATIC,2020-04-11 00:00:00,DURERI ABDOMINALE,SD OCLUSIV,NU,NU,NU,2020-04-11 00:00:00,NEGATIV
+X,FEMININ,53,2020-04-04 00:00:00,"SUSP SARS COV-2,SDR.DIUREIC",2020-04-11 00:00:00,SUSP SARS COV-2,"SINDROM DIUREIC ACUT,SUSP COVID-2,SDR DEPRESIV,HTA ST I,BYPASS AORTOCORONARIAN",NU,NU,NU,2020-04-11 00:00:00,NEGATIV
+X,MASCULIN,70,2020-04-09 00:00:00,"tuse seaca, dispnee",2020-04-11 00:00:00,"dispnee, tuse","pneumonie bazala dr .suspect covid 19, hta. Dz2,insufic resp cr. Acutizata`",NU,NU,NU,2020-04-11 00:00:00,NEGATIV
+X,MASCULIN,43,2020-04-05 00:00:00,"ASIMPTOMATIC COVID,",2020-04-05 00:00:00,ASIMPTOMATIC,"GANGRENA DIABETICA PICOR DRT, FLEGMON PLANTAR DRT, CELULITA MB INFERIOR DREPT","NU A CALATORIT,",NU E CAZUL,PACIENT MEDICINA INTERNA 2,2020-04-11 00:00:00,POZITIV
+X,FEMININ,73,11.04.020,"durere membru inf stg, valori tesionale crescute",2020-04-11 00:00:00,"vertij, durere","pneumonie mediohilara stg, dz tip 2, hta., ulcer gamba stg Suspiciune covid 19",NU,NU,NU,2020-04-11 00:00:00,NEGATIV
+X,MASCULIN,72,2020-04-11 00:00:00,"astenie, dispnee",2020-04-12 00:00:00,"dureri abdominale, astenie, dispnee",suspiciune COVID19,NU,NU,NU,2020-04-11 00:00:00,NEGATIV
+X,MASCULIN,73,2020-04-10 00:00:00,"episod sincopal, vertij",12.04.2020 Boli Infectioase. transfer Pneumologie II in data de 12.04.2020,"vertij, cefalee, greturi.","vertij, cefalee, greturi.",NU,NU,NU,2020-04-11 00:00:00,POZITIV
+X,MASCULIN,75,2020-04-11 00:00:00,"deficit motor hemicorp drept, afazie",2020-04-11 00:00:00,afazie,"AVC acut, susp. Covid 19",NU,NU,NU,2020-04-11 00:00:00,NEGATIV
+X,MASCULIN,62,2020-04-11 00:00:00,ASIMPTOMATIC,2020-04-11 00:00:00,ABCES HALUCE,ABCES HALUCE,NU,NU,NU,2020-04-11 00:00:00,NEGATIV
+X,FEMININ,7 ANI 1 LUNA,2020-04-12 00:00:00,Afebrila.Paloare periorala.Stranut repetat.,2020-04-12 00:00:00,Afebrila.Paloare periorala.Stranut repetat., RINOFARINGITA ACUTA CU IRA .COPIL TESTAT PENTRU COVID 19 .SAD gr1 .                                     Afebrila.Paloare periorala.Stranut repetat.,NU,NU,NU,2020-04-12 00:00:00,NEGATIV
+X,MASCULIN,83,2020-04-09 00:00:00,"tuse, disfonie, dispnee",2020-04-10 00:00:00,"tuse, dispnee, disfonie",pneumonie interstitiala suspect COVID19,NU,NU,NU,2020-04-12 00:00:00,NEGATIV
+X,MASCULIN,45,2020-04-12 00:00:00,ASIMPTOMATIC,2020-04-12 00:00:00,PANCREATITA CR,PANCREATITA CR ACUTIZATA,NU,NU,NU,2020-04-12 00:00:00,NEGATIV
+X,FEMININ,45,2020-04-12 00:00:00,DURERI EPIGASTRICE,2020-04-12 00:00:00,DURERE,"PNEUMONIE LID, SUSPECT COVID 19",NU,NU,NU,2020-04-12 00:00:00,NEGATIV
+X,MASCULIN,66,2020-04-11 00:00:00,DURERI ABDOMINALE,2020-04-12 00:00:00,DURERI ABDOMINALE, pancreatita acuta,0,0,0,2020-04-12 00:00:00,NEGATIV
+X,MASCULIN,69,2020-04-12 00:00:00,"febra,tuse seaca",2020-04-13 00:00:00,"febra,tuse seaca","Insuficienta respiratorie acuta, bronhopneumonie virala, infectie COVID-19, HTA es. Std.III gr de risc c.v. foarte inalt, sdr. De hepatocitoliza",NU,NU,NU,2020-04-12 00:00:00,POZITIV
+X,MASCULIN,52,2020-04-06 00:00:00,febra dispnee durere toracica parestezii,2020-04-12 00:00:00,"febra, dispnee, parestezii, durere",sdr febril suspect COVID19,NU,NU,NU,2020-04-12 00:00:00,POZITIV
+X,MASCULIN,64,2020-04-12 00:00:00,ASIMPTOMATIC,2020-04-12 00:00:00,"FEBRA, DISPNEE, HEMATURIE",HEMATURIE MACROSCOPICA. PNA,NU,NU,NU,2020-04-12 00:00:00,NEGATIV
+Z,MASCULIN,36,2020-04-12 00:00:00,febra,2020-04-13 00:00:00,febra,"pneumopatie LID,susp.inf COVID 19",NU,NU,NU,2020-04-12 00:00:00,POZITIV
+X,MASCULIN,52,2020-04-09 00:00:00,febra,2020-04-12 00:00:00,febra,"pneumopatie bazala stanga,susp.inf Covid",NU,NU,NU,2020-04-12 00:00:00,NECONCLUDENT
+X,MASCULIN,52,2020-04-01 00:00:00,greturi,2020-04-13 00:00:00,greturi,"susp.inf COVID 19,insuficienta renala",NU,NU,NU,2020-04-12 00:00:00,NECONCLUDENT
+X,MASCULIN,46,08.04 2020,durei abdominale,2020-04-08 00:00:00,dureri abdom,pancreatita acuta,NU,NU,NU,2020-04-12 00:00:00,NECONCLUDENT
+X,FEMININ,48,2020-04-11 00:00:00,"scaune diareice, inapetenta",2020-04-11 00:00:00,scaune diareice,"bronhopneumonie, sdr diareic, suspect COVID19",NU,NU,NU,2020-04-12 00:00:00,NEGATIV
+X,FEMININ,68,2020-04-10 00:00:00,"palpitatii, bradicardie",2020-04-10 00:00:00,scurt episod de dispnee paroxistica,"1. ritm jonctional, 2. boala de nod sinusal în obs, 3. Fia convertita la RS 4. Bradicardie simptomatica",NU,NU,NU,2020-04-12 00:00:00,NEGATIV
+X,FEMININ,22,2020-04-18 00:00:00,Asimptomatica,2020-04-18 00:00:00,ASIMPTOMATICA,"Sarcina 11 saptamani in evolutie , emeza",NU,0,NU,2020-04-12 00:00:00,NEGATIV
+X,MASCULIN,70,2020-04-07 00:00:00,dureri abd,2020-04-07 00:00:00,dureri abdom,ciroza hepatica,NU,NU,NU,2020-04-12 00:00:00,NEGATIV
+X,MASCULIN,81,2020-04-12 00:00:00,DISPNEE,2020-04-12 00:00:00,"DISPNEE, FATIGABILITATE","DISPNEE, EDEME, INSUFICIENTA CARDIACA",NU,NU,NU,2020-04-12 00:00:00,NEGATIV
+X,MASCULIN,58,2020-04-09 00:00:00,ASIMPTOMATIC,2020-04-12 00:00:00,"AGITATIE PSIHOMOTORIE, VARSATURI","SDR SUBOCLUSIV, MALADIE ADERENTIALA, IRA ACUTA",NU,NU,NU,2020-04-12 00:00:00,NEGATIV
+X,FEMININ,70,2020-03-31 00:00:00,"greturi, varsaturi, febra",2020-04-03 00:00:00,"febra, varsaturi, dispnee, tuse seaca",Pneumonie interstitiala. Suspect COVID,NU,NU,nu cunoaste,2020-04-12 00:00:00,NEGATIV
+X,FEMININ,74,2020-04-08 00:00:00,hematurie,2020-04-13 00:00:00,hematurie,"anemie severa ,susp.inf Covid 19",NU,NU,NU,2020-04-13 00:00:00,NECONCLUDENT
+Y,FEMININ,52,2020-04-17 00:00:00,TUSE.ASTENIE.ODINOFAGIE,2020-04-20 00:00:00,TUSE.ASTENIE.ODINOFAGIE,TUSE.ASTENIE.LARINGITA AUTA,NU,NU,NU,2020-04-13 00:00:00,NECONCLUDENT
+X,MASCULIN,53,2020-04-06 00:00:00,"febra,dispnee,tuse",2020-04-14 00:00:00,"febra,dispnee,tuse","susp.Covid 19,pneumonie bilaterala",NU,NU,NU,2020-04-13 00:00:00,NECONCLUDENT
+Z,MASCULIN,84,2020-04-22 00:00:00,"TUSE,FEBRA,DISPNEE",2020-04-26 00:00:00,"TUSE,FEBRA,DISPNEE","SUSP.INF.COVID, PNEUMONIE AC.STANGA",NU,NU,NU,2020-04-13 00:00:00,NEGATIV
+X,MASCULIN,59,13.04.2020,sincopa,13.04.2020,sincopa,"1.Sincopa,2.AIT repetat,3.Stenoza artere carotide",NU,NU,NU,2020-04-13 00:00:00,NEGATIV
+X,FEMININ,33,2020-04-13 00:00:00,sindrom febril,2020-04-13 00:00:00,sd.febril,retard mental cu tulburari de comportament,NU,NU,NU,2020-04-13 00:00:00,NECONCLUDENT
+X,MASCULIN,69,2020-04-07 00:00:00,"astenie,febra",2020-04-13 00:00:00,"astenie,febra","susp.Covid 19 ,pneumonie bilaterala",NU,NU,NU,2020-04-13 00:00:00,NECONCLUDENT
+X,FEMININ,22,2020-04-13 00:00:00,Asimptomatica,2020-04-13 00:00:00,Asimptomatica,"Sarcina luna IX-a , fat viu, membrane intacte, prez. Cefalica, bazin osos stramtat, travaliu, sarcina nedispensarizata, fumatoare",NU,NU,NU,2020-04-13 00:00:00,NECONCLUDENT
+X,FEMININ,45,2020-05-14 00:00:00,ASIMPTOMATIC COVID,2020-05-18 00:00:00,ASIMPTOMATIC COVID,"ABCES PARIETO-ABDOMINAL DE FLANC STG,STARE SEPTICA",NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-13 00:00:00,NEGATIV
+X,MASCULIN,79,2020-04-13 00:00:00,ASIMPTOMATIC,13.04.2020,DURERI MEMBRU INFERIOR DREPT,CANGRENA HALUCE DRT.,NU,NU,NU,2020-04-13 00:00:00,NECONCLUDENT
+X,FEMININ,16,2020-04-09 00:00:00,"idei delirante,agitatie psihomotorie,incoorenta gandirii",2020-04-13 00:00:00,"fara semne de boala acuta, elemente psihotice","idei delirante, agitatie psihomotorie, Episod psihotic recurent acutizat",NU,NU,NU,2020-04-13 00:00:00,NEGATIV
+X,FEMININ,1,2020-04-10 00:00:00,"tuse, dispnee,edeme palpebrale",2020-04-13 00:00:00,"subfebrilitati 37,3,tuse  spastica,dispnee, raluri sibilante si subcrepitante diseminate bilat",Pneumonie acuta,0,0,0,2020-04-13 00:00:00,NECONCLUDENT
+X,FEMININ,81,2020-04-08 00:00:00,DURERI ABDOMINALE,2020-04-08 00:00:00,DUREI ABD,HEMORAGIE DIGESTIVA,NU,NU,NU,2020-04-13 00:00:00,NECONCLUDENT
+X,MASCULIN,30,2020-04-10 00:00:00,febra,2020-04-13 00:00:00,febra,"pneumonie ,suspect inf COVID 19",NU,NU,NU,2020-04-13 00:00:00,NEGATIV
+X,MASCULIN,48,2020-04-10 00:00:00,"dispnee,edeme,",2020-04-14 00:00:00,"edeme,dispnee","susp.Covid 19,bronhopneumonie acuta",NU,NU,NU,2020-04-13 00:00:00,NEGATIV
+X,MASCULIN,34,2020-04-08 00:00:00,tuse seaca,2020-04-13 00:00:00,tuse seaca,"peumopatie bazala bilaterala,supect inf COVID 19",NU,NU,DA,2020-04-13 00:00:00,POZITIV
+X,MASCULIN,78,2020-04-13 00:00:00,ASIMPTOMATIC,13.04.2020,"DURERE ABDOMINALA, LIPSA TRANZIT DE 2 ZILE, GREATA, VARSATURI",OCLUZIE INTESTINALA. EVISCERATIE GLOCATA. STATUS POST ILEO-TRANSVERSO ANASTOMOZA. NEOPLASM COLON ASCENDENT,NU,NU,NU,2020-04-13 00:00:00,NECONCLUDENT
+X,MASCULIN,23,2020-04-10 00:00:00,"DURERI ABDOMINALE, FEBRA",2020-04-13 00:00:00,DURERI ABD FEBRA,COLICA ABDOMINALA,PORTUGALIA IAN 2020,0,NU,2020-04-13 00:00:00,NEGATIV
+X,MASCULIN,20,2020-04-14 00:00:00,somnolenta,2020-04-15 00:00:00,somnolenta,Intoxicatie acuta medicamentoasa,nu,nu e cazul,nu,2020-04-14 00:00:00,NECONCLUDENT
+X,FEMININ,71,2020-04-11 00:00:00,"tuse seaca ,febra",2020-04-14 00:00:00,"tuse seaca ,febra",susp.Covid 19,nu,nu,nu,2020-04-14 00:00:00,NECONCLUDENT
+X,MASCULIN,73,2020-05-13 00:00:00,ASIMPTOMATIC,2020-05-13 00:00:00,ASIMPTOMATIC,"AFEBRIL, NEO PLANȘEU BUCAL",NEAGĂ,NU ESTE CAZUL,NU ȘTIE,2020-04-14 00:00:00,NEGATIV
+X,FEMININ,                   27, 14.04.2020,Asimptomatica,2020-04-14 00:00:00,Asimptomatica,"G I P I Sarcină luna a IX a. Făt viu, unlc. Prez. transversală. Bazin osos normal. Debut de travaliu.",NU,0,NU,2020-04-14 00:00:00,NECONCLUDENT
+X,FEMININ,62,2020-04-14 00:00:00,"ASIMPTOMATIC COVID, DURERE IN FOSA ILIACA DRT, GRETURI",2020-04-14 00:00:00,ASIMPTOMATIC,APENDICITA ACUTA,NU A CALATORIT,NU E CAZUL,NU E CAZUL,2020-04-14 00:00:00,POZITIV
+X,MASCULIN,73,2020-04-14 00:00:00,"ASIMPTOMATIC COVID, DURERE COAPSA DRT, TUMEFACTIE COAPSA DRT",2020-04-14 00:00:00,ASIMPTOMATIC,FRACTURA PERTROHANTERIANA DRRT,NU A CALATORIT,NU E CAZUL,NU E CAZUL,2020-04-14 00:00:00,POZITIV
+X,FEMININ,31,2020-04-14 00:00:00,nu are,2020-04-14 00:00:00,nu  are,Retard mental cu tulburari de comportament,nu,nu e cazul,nu,2020-04-14 00:00:00,NECONCLUDENT
+X,MASCULIN,27,2020-04-14 00:00:00,ASIMPTOMATIC,2020-04-14 00:00:00,ACCIDENT RUTIER,POLITRAUMATISM PRIN ACCIDENT RUTIER - MOTOCICLETA. MINIME CONTUZII CEREBRALE FRONTAL DR.,NU,NU,NU,2020-04-14 00:00:00,POZITIV
+X,FEMININ,84,2020-04-14 00:00:00,"ASIMPTOMATIC COVID, HEMATURIE MACROSCOPICA,",2020-04-14 00:00:00,ASIMPTOMATIC,"HEMATURIE MACROSCOPICA, FATIGABILITATE,",NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-14 00:00:00,NECONCLUDENT
+X,FEMININ,67,2020-04-14 00:00:00,"ASIMPTOMATIC COVID, DURERE BRAT STG, SI REGIUNEA UMARULUI STG",2020-04-14 00:00:00,ASIMPTOMATIC,"FRACTURA, LUXATIE UMAR STG",NU A CALATORIT,NU E CAZUL,NU E CAZUL,2020-04-14 00:00:00,POZITIV
+X,MASCULIN,90,2020-04-09 00:00:00,"febra, astenie",2020-04-11 00:00:00,febra,"pneumonie LIDSI lls, suspect COVID19",NU,NU,NU,2020-04-14 00:00:00,POZITIV
+X,MASCULIN,69,2020-04-14 00:00:00,ASIMPTOMATIC,2020-04-14 00:00:00,"DURERE LA NIVELUL MEMBRELOR, DISPNEE LA EFFORT",HIDRONEFROZA STG.LITIAZICA PE RINICHI UNIC FUNCTIONAL,NU,NU,NU,2020-04-14 00:00:00,NECONCLUDENT
+X,FEMININ,                   29, 14.04.2020,Asimptomatica,2020-04-14 00:00:00,Asimptomatica,"G III PII Sarcină luna a IX a. Făt viu, unic. Prez. craniană. M.I. Bazin osos normal. Risc obstetrical crescut. Uter cicatricial.",NU,0,NU,2020-04-14 00:00:00,NECONCLUDENT
+X,MASCULIN,52,2020-04-14 00:00:00,nu are,2020-04-14 00:00:00,nu are,Retard mental cu tulburari de comportament severe,nu,nu e cazul,da,2020-04-14 00:00:00,NECONCLUDENT
+X,FEMININ,65,2020-04-10 00:00:00,"febra,astenie",2020-04-14 00:00:00,"febra,astenie","susp .Covid 19,pneumonie bilaterala",nu,nu,nu,2020-04-14 00:00:00,NECONCLUDENT
+X,FEMININ,63,2020-04-06 00:00:00,"greturi,tuse ,dispnee",2020-04-14 00:00:00,"greturi,tuse,dispnee","susp.Covid 19,pneumOnie bazala,insuf.cardiaca",NU,NU,NU,2020-04-14 00:00:00,POZITIV
+X,MASCULIN,61,2020-04-14 00:00:00,DURERE. NECROZA PICIOR STG.,2020-04-14 00:00:00,ASIMPTOMATIC,DURERE SI NECROZA  PICIOR STG,NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-14 00:00:00,NECONCLUDENT
+X,FEMININ,                   21, 14.04.2020,Asimptomatica,2020-04-14 00:00:00,Asimptomatica,"GII PI Sarcină luna  a-IX a.Făt viu unic,.Prez.craniană.MI.Bazin osos normal.Travaliu.",NU,0,NU,2020-04-14 00:00:00,NEGATIV
+X,MASCULIN,52,2020-03-28 00:00:00,"tuse, dispnee",2020-04-06 00:00:00,"tuse, dispnee, mialgii",Bronhopneumonie. Susp. Inf. COVID,DA,masina,nu cunoaste,2020-04-14 00:00:00,POZITIV
+X,MASCULIN,25,2020-04-14 00:00:00,nu are,2020-04-14 00:00:00,nu are,Agitatie psihomotorie.Tulburari mentale si de comportamet legate de consum de subst.psihoactive,nu,nu e cazul,nu,2020-04-14 00:00:00,NECONCLUDENT
+X,FEMININ,29,2020-04-14 00:00:00,Asimptomatica,2020-04-14 00:00:00,Asimptomatica,Asimptomatica,NU,NU,NU,2020-04-14 00:00:00,POZITIV
+Z,FEMININ,17,2020-05-12 00:00:00,convulsii tonico-clonice,2020-05-12 00:00:00,"stare generala buna,echilibrata cardio-pulmonar,abdomen moale ,fara semne de iritatie meningeana",Crize polimorfe in tratament .Sindrom convulsiv,Nu,Nu,Nu,2020-04-15 00:00:00,NEGATIV
+X,MASCULIN,82,2020-04-16 00:00:00,"dispnee,subfebra",2020-04-16 00:00:00,"dispnee,subfebra","susp.Covid 19,bronhopneumonie",nu,nu,nu,2020-04-15 00:00:00,NEGATIV
+X,FEMININ,20,2020-04-15 00:00:00,Asimptomatica,2020-04-15 00:00:00,Asimptomatica,"GI PI Sarcina 40/41 sapt. Fat viu,unic. Prezentatie cefalica. Membrane intacte. Debut travaliu",Nu,0,nu,2020-04-15 00:00:00,NEGATIV
+X,MASCULIN,77,15.04.2020,Sindrom coronarian acut. DZ dezechilibrat,15.04.2020,sindrom coronarian acut,"dureri precordiale, dispnee",nu,nu,NU,2020-04-15 00:00:00,NEGATIV
+X,FEMININ,17,2020-04-15 00:00:00,Asimptomatica,2020-04-15 00:00:00,Asimptomatica,GI PI Sarcina Luna IX . Fat Viu  Mebrane Intacte. Prezentatie craniana. CUD.,nu,0,nu,2020-04-15 00:00:00,NEGATIV
+X,FEMININ,38,2020-04-15 00:00:00,Tuse,2020-04-15 00:00:00,Tuse,GI PI Sarcina 33/34 sapt. Fat viu. Unic.Prey cefalica. Membrane intacte. ROC.Placenta jos inserata cu metroragie minimala.,NU,0,NU,2020-04-15 00:00:00,NEGATIV
+X,MASCULIN,25,2020-04-15 00:00:00,durere antebrat stang,2020-04-15 00:00:00,ASIMPTOMATIC,DURERE ANTEBRAT STANG,NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-15 00:00:00,NEGATIV
+X,FEMININ,30,2020-04-16 00:00:00,Asimptomatica,2020-04-15 00:00:00,Asimptomatica,Sarcina 37-38 saptamani. Fat viu. Prezentatie cefalica. Insuficienta cervico+istmica. Cerclaj,NU,0,nu,2020-04-15 00:00:00,NEGATIV
+X,MASCULIN,51,2020-04-14 00:00:00,nu are,2020-04-14 00:00:00,nu are,Agitatie psihomotorie.Tulburari de comportament legate de consumul de alcool.,nu,nu e cazul,nu,2020-04-15 00:00:00,NEGATIV
+X,FEMININ,34,2020-04-15 00:00:00,Asimptomatica,2020-04-15 00:00:00,Asimptomatica,GI PI Sarcina 40/41 sapt. Fat viu. Unic.Prey cefalica. Membrane intacte. ROC. Rh NEGATIV. DEBUT TRAVALIU,NU,0,NU,2020-04-15 00:00:00,NEGATIV
+X,FEMININ,31,2020-04-15 00:00:00,Asimptomatica,2020-04-15 00:00:00,Asimptomatica,GIII PIII Sarcina 37/38 sapt. Fat viu . Asezare transversa. RO. Uter dublu cicatricial placenta joasa,Nu,0,nu,2020-04-15 00:00:00,NEGATIV
+X,MASCULIN,62,2020-04-12 00:00:00,"dispnee,febra",2020-05-15 00:00:00,"dispnee,febra","susp.Covid 19,pneumopatie",nu,nu,nu,2020-04-15 00:00:00,POZITIV
+X,FEMININ,31,2020-04-15 00:00:00,Asimptomatica,2020-04-15 00:00:00,Asimptomatica,GII PII Sarcina 38/39 sapt. Fat viu unic. Prey craniana. Membrane Intacte.Uter cicatricial. ROC. Debut travaliu.,nu,0,nu,2020-04-15 00:00:00,NEGATIV
+X,FEMININ,25,2020-04-15 00:00:00,Asimptomatica,2020-04-15 00:00:00,Asimptomatica,"GI PI sarcina 38/39 saptamani. Fat viu, unic. Prey Craniana. Bayin normal. Debut travaliu",nu,0,nu,2020-04-15 00:00:00,NEGATIV
+X,FEMININ,30,2020-04-15 00:00:00,Asimptomatica,2020-04-15 00:00:00,Asimptomatica,GII PII Sarcina 38/39 sapt. Fat viu unic. Prey craniana. Membrane Intacte.RH negativ.,NU,0,nu,2020-04-15 00:00:00,NEGATIV
+X,FEMININ,39,2020-04-15 00:00:00,Asimptomatica,2020-04-15 00:00:00,Asimptomatica,GI PI Sarcina 38/39 sapt. Fat viu Unic. Prez.cefalica. ROC,nu,0,nu,2020-04-15 00:00:00,NEGATIV
+X,FEMININ,52,2020-04-15 00:00:00,Asimptomatica,2020-04-15 00:00:00,Asimptomatica,"GII PIII Sarcina 36/37 sapt. Feti vii, ambii in prezentatie craniana M.i. FIV Rh Negativ",nu,0,nu,2020-04-15 00:00:00,NEGATIV
+X,FEMININ,86,2020-04-15 00:00:00,"ASIMPTOMATIC COVID, DURERE REG INGHINALA DRT, FORM PROTRUZIVA REG INGHINALA DRT",2020-04-15 00:00:00,ASIMPTOMATIC,"DURERE REG INGHINALA DREAPTA, FORMATIUNE PROTRUZIVA",NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-15 00:00:00,NEGATIV
+X,MASCULIN,49,2020-04-02 00:00:00,"tuse seaca,febra",2020-04-13 00:00:00,tuse seaca febra,"susp.COVID 19,HTA",NU,NU,NU,2020-04-15 00:00:00,NEGATIV
+X,FEMININ,24,2020-04-15 00:00:00,Asimptomatica,2020-04-15 00:00:00,Asimptomatica,"G III PIII Sarcina luna a IX-a. Fat viu, unic. Prezentatie craniana. Membrane intacte. Bazin eutocic. Expulzie. Sarcina neinvestigata",Nu,0,Nu,2020-04-15 00:00:00,NEGATIV
+X,FEMININ,                   32, 14.04.2020,TUSE,2020-04-14 00:00:00,"TUSE,T-37,3","G III P III Sarcina 39 sapt. Fat viu unic,. Prez. Craniana. M.I Bazin Osos normal. Debut  de travaliu. Risc Obstetrical  crescut. HTAIS",NU,0,NU,2020-04-16 00:00:00,NEGATIV
+X,FEMININ,28,2020-04-11 00:00:00,nu are,2020-04-11 00:00:00,nu are,Schizofrenie paranoida.,nu,nu e cazul,nu,2020-04-16 00:00:00,NEGATIV
+Y,FEMININ,46,2020-04-14 00:00:00,TUSE FEBRA ASTENIA,2020-04-21 00:00:00,"TUSE , FEBRA, ASTENIE","SUSPICIUNNE   SARS  COV-2 ,PNEUMONIE STANGA",NU,NU,NU,2020-04-16 00:00:00,NEGATIV
+X,FEMININ,49,16.04.2020.,fara acuze,2020-04-16 00:00:00,fara acuze,suspiciune inf COVID 19,nu,nu,nu,2020-04-16 00:00:00,NEGATIV
+X,MASCULIN,28,2020-04-16 00:00:00,"DURERE HEMITORACE DREPT, DISPNEE",2020-04-16 00:00:00,ASIMPTOMATIC,"DISPNEE, DURERE HEMITORACE DREPT",NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-16 00:00:00,NEGATIV
+X,FEMININ,62,2020-04-04 00:00:00,"dispnee, tuse",2020-04-07 00:00:00,"dispenee, tuse, febra, diaree",Pneumonie dubla,NU,NU,nu cunoaste,2020-04-16 00:00:00,NEGATIV
+X,FEMININ,54,2020-04-16 00:00:00,HDS,2020-04-16 00:00:00,DURERI ABDOMINALE,HEMORAGIE DIGESTIVA,0,0,0,2020-04-16 00:00:00,NEGATIV
+X,MASCULIN,72,2020-04-16 00:00:00,durere membru inferior stang,2020-04-16 00:00:00,"DURERE, NECROZA DEGET MEMBRU INFERIOR STANG",NECROZA DEGET III MEMBRU INFERIOR STANG,NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-16 00:00:00,NEGATIV
+X,MASCULIN,47,2020-04-05 00:00:00,"febra,tuse",2020-04-08 00:00:00,"febra,tuse","Infiltrat pneumonic paracardiac stang,HTA,DZ 2",NU,NU,NU,2020-04-16 00:00:00,NEGATIV
+X,MASCULIN,7,2020-04-09 00:00:00,"tuse spastica, dispnee,obstructie nazala",2020-04-16 00:00:00,"afebril, apetent, facies palid ,incercanat,buze uscate,tuse spastica,raluri sibilante diseminate",PNEUMONIE ACUTA OBSTRUCTIVA. IRA USOARA,NU E CAZUL,NU,NU,2020-04-16 00:00:00,NEGATIV
+X,MASCULIN,71,2020-05-14 00:00:00,ASIMPTOMATIC,2020-05-14 00:00:00,ASIMPTOMATIC,"AFEBRIL, NEO BRONHOPULMONAR",NEAGĂ,NU ESTE CAZUL,NU ȘTIE,2020-04-16 00:00:00,NEGATIV
+X,FEMININ,21,2020-04-16 00:00:00,Asimptomatica,2020-04-16 00:00:00,Asimptomatica,"GIPI Sarcina l a IX a.Fat viu,unic.Prezentatie pelviana.MI.Bazin osos normal.Debut de travaliu",NU,0,NU,2020-04-16 00:00:00,NEGATIV
+X,FEMININ,56,2020-04-16 00:00:00,IOT,2020-04-16 00:00:00,GRAVA,"insuf,respiratorie,covid pozitiv",nu,nu,nu,2020-04-16 00:00:00,POZITIV
+X,MASCULIN,80,2020-04-14 00:00:00,"frisoane, tuse",2020-04-17 00:00:00,"dispnee,tuse seaca","susp.Covid 19 ,pneumonie interstitiala",nu,nu,nu,2020-04-16 00:00:00,POZITIV
+X,FEMININ,57,2020-04-15 00:00:00,nu are,2020-03-25 00:00:00,nu are,Tulburare deliranta persistenta.,nu,nu e cazul,nu,2020-04-16 00:00:00,NEGATIV
+X,FEMININ,53,2020-07-07 00:00:00,ASIMPTOMATICA,2020-07-07 00:00:00,ASIMPTOMATICA,METROPATIE HEMORAGICĂ ÎN CLIMAX,NU,NU,NU,2020-04-16 00:00:00,NEGATIV
+X,FEMININ,23,2020-04-16 00:00:00,Asimptomatica,2020-04-16 00:00:00,Asimptomatica,"GII PI Sarcină luna  a-IX a.Făt viu unic,.Prez.craniană.MR.Bazin osos normal.Debut de travaliu. Anemie secundara.",NU,0,NU,2020-04-16 00:00:00,NEGATIV
+X,MASCULIN,76,2020-04-08 00:00:00,"febra ,dispnee","08,04,2020","agravat ,iot","insuf,respiratorie",nu,nu,nu,2020-04-16 00:00:00,NEGATIV
+Z,MASCULIN,58,2020-05-12 00:00:00,ASIMPTOMATIC,2020-05-12 00:00:00,ASIMPTOMATIC,"AFEBRIL, NEO PANCREAS",NEAGĂ,NU ESTE CAZUL,NU ȘTIE,2020-04-16 00:00:00,NEGATIV
+X,MASCULIN,39,2020-04-17 00:00:00,nu are,2020-04-17 00:00:00,nu are,Tulburari de comportament datorate consumului de alcool. Agitatie psihomotorie.,nu,nu e cazul,nu,2020-04-17 00:00:00,NEGATIV
+Y,MASCULIN,44,2020-04-13 00:00:00," FEBRA  TUSE , TRANSPIRARII",2020-04-21 00:00:00,TUSE FEBRA,"SUSPICIUNE SARS  COV  -2,PNEUMONIE INTERSTAILA   DREAPTA",MU,NU,DA,2020-04-17 00:00:00,NEGATIV
+X,MASCULIN,3,2020-04-12 00:00:00,"febra  39,8-40 *c,inapetenta",2020-04-18 00:00:00,"afebril,inapetent,amigdale hipertrofice,hiperemice,cu depozite pultacee,disfagie,pulm fara raluri","ANGINA ACUTA ERITEMATO-PULTACEE,TULBURARI DE SPECTRU AUTIST",NU E CAZUL,NU,NU,2020-04-18 00:00:00,NEGATIV
+X,MASCULIN,45,2020-04-15 00:00:00,nu are,2020-03-28 00:00:00,nu are,Schizofrenie paranoida,nu,nu e cazul,nu,2020-04-18 00:00:00,NEGATIV
+X,FEMININ,52,2020-04-18 00:00:00,"ASIMPTOMATIC COVID,HEMATURIE MACROSCOPICA",2020-04-18 00:00:00,ASIMPTOMATIC,ABDOMEN ACUT CHIRURGICAL,NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-18 00:00:00,NEGATIV
+X,FEMININ,51,2020-04-08 00:00:00,"febra,tuse seaca,astenie",2020-04-15 00:00:00,"febra,tuse seaca,astenie",susp.Covid 19.insuf.respiratorie,nu,nu,nu,2020-04-18 00:00:00,NEGATIV
+X,FEMININ,71,2020-04-16 00:00:00,"febra, frisoane, mialgii, cefalee, tuse",2020-04-18 00:00:00,"febra, frisoane, mialgii, cefalee, tuse","SUSP. Covid 19, diabet zaharat tip II, infarct miocardic",nu,nu,nu,2020-04-18 00:00:00,POZITIV
+X,FEMININ,33,2020-04-18 00:00:00,Asimptomatica,2020-04-18 00:00:00,ASIMPTOMATICA,"Sarcina 36/37 saptamani ,membrane rupte, fat viu, craniana ,uter cicatricial, debut de travaliu",NU,0,NU,2020-04-18 00:00:00,NEGATIV
+X,FEMININ,41,2020-04-16 00:00:00,nu are,2020-04-16 00:00:00,nu are,Schizofrenie paranoida.,nu,nu e cazul,nu,2020-04-18 00:00:00,NEGATIV
+X,FEMININ,59,2020-04-02 00:00:00,"greata,diaree,stare gen, alterata",2020-04-16 00:00:00,"greata, astenie,dureri musculare","Susp cov 19,Enterocolita acuta",nu,nu,nu,2020-04-18 00:00:00,POZITIV
+X,FEMININ,46,2020-04-15 00:00:00,nu are,2020-02-14 00:00:00,nu are,Tulburare deliranta persistenta.,nu,nu e cazul,nu,2020-04-18 00:00:00,NEGATIV
+X,MASCULIN,87,"09,05,2020",TCC.CONTUZIE CEREBRALA,"09,05,2020",ASIMPTOMATIC COVID,TCC AC INCHIS.CONTUZIE CEREBRALA.HEMATOM SUBDURAL,NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-18 00:00:00,NEGATIV
+X,MASCULIN,50,2020-04-18 00:00:00,"ASIMPTOMATIC COVID,TRAUMATISM COLOANA CERVICALA+LOMBARA",2020-04-18 00:00:00,ASIMPTOMATIC,"POLITRAUMATISM PRIN CADERE DE LA INALTIME,TRAUMATISM COLOANA CERVICALA+LOMBARA",NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-18 00:00:00,NEGATIV
+X,MASCULIN,24,2020-04-15 00:00:00,nu are,2020-04-15 00:00:00,nu are,Episod psihotic acut.,nu,nu e cazul,nu,2020-04-18 00:00:00,NEGATIV
+X,FEMININ,63,2020-04-18 00:00:00,"dispnee, febra, tuse, greturi, varsaturi",2020-04-18 00:00:00,"dispnee, febra, tuse, greturi, varsaturi","susp.Covid 19, mielom multiplu, boala cronica de rinichi",nu,nu,nu,2020-04-18 00:00:00,NEGATIV
+X,FEMININ,13,2020-04-18 00:00:00,"DURERE ABDOMINALA, FEBRA, VARSATURI",2020-04-18 00:00:00,"DURERE ABDOMINALA, FEBRA, VARSATURI",Apendicita acuta gangrenoasa,NU,0,NU,2020-04-18 00:00:00,NEGATIV
+X,MASCULIN,48,2020-04-18 00:00:00,"ASIMPTOMATIC COVID,DIFICULTATI RESPIRATORII,TEMPERATURA=37,4",2020-04-18 00:00:00,ASIMPTOMATIC,POLITRAUMATISM PRIN CADERE DE PE BICICLETA,NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-18 00:00:00,NEGATIV
+X,FEMININ,68,2020-04-15 00:00:00,nu are,2020-03-30 00:00:00,nu are,Schizofrenie paranoida.,nu,nu e cazul,nu,2020-04-18 00:00:00,NEGATIV
+X,MASCULIN,38,2020-04-03 00:00:00,"febra, astenie fizica marcata, inapetenta",2020-04-12 00:00:00,"febra, inapetenta, oboseala","sdr. Febril, susppect covid 19","da-Suedia, intors in 1 martie",masina,NU,2020-04-18 00:00:00,NEGATIV
+X,MASCULIN,32,2020-04-17 00:00:00,"dispnee,tuse iritativa",2020-04-19 00:00:00,"dispnee,tuse iritativa","susp.Covid 19,pneumopatie interstitiala",nu,nu,nu,2020-04-19 00:00:00,NEGATIV
+X,MASCULIN,32,2020-04-19 00:00:00,"Subfebrilitate, tuse seaca",2020-04-19 00:00:00,subebrilitati,Suspiciune SARS COV  -02pneumopatie lob inferior drept,nu are,nu are,DA,2020-04-19 00:00:00,POZITIV
+X,FEMININ,1,2020-04-12 00:00:00,"febra,tuse,inapetenta",2020-04-19 00:00:00,"facies incercanat,pulm.MV inasprit bilat.ronhusuri bronsice sibilante si ronflante","PNEUMOPATIE ACUTA,IRA,HIPERPIREXIE",NU E CAZUL,NU,NU,2020-04-19 00:00:00,NEGATIV
+Y,FEMININ,83,2020-06-20 00:00:00,"HIPOGLICEMIE REMISA, TULBURARAI DE RITM",2020-06-23 00:00:00,"HIPOGLICEMIE, TULBURARI DE RITM","DZ TIP II NOU DESCOPERIT, HTA, AVC SECHELAR, SDR. DE CITOLIZA,SUSPICIUNE INFECTIE SARS-COV-2",NU,NU,NU,2020-04-19 00:00:00,NEGATIV
+X,FEMININ,21,2020-04-19 00:00:00,ASIMPTOMATICA,2020-04-19 00:00:00,ASIMPTOMATICA,"G V P II Sarcina 34/35 saptamani. Fat viu, unic. Prezentatie craniana. Bazin osos normal. ANP. Uter cicatricial.",NU,0,NU,2020-04-19 00:00:00,NEGATIV
+X,FEMININ,35,2020-04-19 00:00:00,ASIMPTOMATICA,2020-04-19 00:00:00,ASIMPTOMATICA,GI PI SARCINA 37/38 SAPT.FAT VIU MR. UNIC PREZENTATIE CRANIANA.PRIMIPARA IN VARSTA.,NU,0,NU,2020-04-19 00:00:00,POZITIV
+X,FEMININ,47,2020-04-19 00:00:00,ASIMPTOMATIC COVID,2020-04-19 00:00:00,ASIMPTOMATIC,"INSUFICIENTA RESPIRATORIE ACUTA, SECUNDARA FORM.TUM. PULMONARA, DETERIORARI SEC. OSOASE MEDIASTINALE ADENOPATIELATEROCERVICALA BILATERALA. IMUNOTERAPIE, CHIMIOTERAPIE",NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-19 00:00:00,NEGATIV
+X,MASCULIN,9,18.04.2020,FEBRA,19.02.2020,"FEBRA,TUSE",SUSPECT COVID 19,0,0,DA,2020-04-19 00:00:00,POZITIV
+X,FEMININ,34,2020-04-14 00:00:00,"dispnee,insomnii",2020-04-19 00:00:00,"dispnee,insomnii","susp.Covid 19,distonie neuro-vegetativa",nu,nu,nu,2020-04-19 00:00:00,POZITIV
+X,MASCULIN,74,2020-04-19 00:00:00,"Febra moderata , lipotimie",2020-04-19 00:00:00,Temp   38.9 lipotimic,"  Suspiciune SARS  COV -2,sindrom febril, sindrom acut  de deshidratare",nu are,nu are,nu,2020-04-19 00:00:00,NEGATIV
+X,MASCULIN,64,2020-04-15 00:00:00,"febra ,dispnee",2020-04-15 00:00:00,influentata pozitiv,"insuf,respiratorie",nu,nu,nu,2020-04-19 00:00:00,POZITIV
+X,MASCULIN,3 ,2020-04-19 00:00:00,PLAGI MUSCATE CAINE MULTIPLE,2020-04-19 00:00:00,PLAGI MUSCATE CAINE MULTIPLE,"PLAGI MUSCATE(CAINE) FRONTAL, PIRAMIDA NAZALA, PALPEBRAL STG., NAZO-GENIAN STG., ANTEBRAT STG.",NU,0,NU,2020-04-19 00:00:00,NEGATIV
+X,MASCULIN,50,2020-04-19 00:00:00,ASIMPTOMATIC COVID,2020-04-20 00:00:00,ASIMPTOMATIC,"TRAUMATISM COLOANA CERVICALA, Anterolistezis C5-C6",NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-19 00:00:00,NEGATIV
+X,FEMININ,21,2020-04-19 00:00:00,ASIMPTOMATICA,2020-04-19 00:00:00,ASIMPTOMATICA,"G II P II Sarcina 40 saptamani. Fat viu, unic. Membrane intacte. Prezentatie cefalica. Bazin osos normal. ROC. Obezitate. Edeme membre inferioare",NU,0,NU,2020-04-19 00:00:00,NEGATIV
+X,FEMININ,50,2020-04-14 00:00:00,"TUSE FEBRA  , FRISON",2020-04-20 00:00:00,"TUSE ,FEBRA FRISON","SUSPICIUNNE   SARS  COV-2NEO MAMAR  OPERAT, DZ  TIP   II, HTA",NU,NU,NU,2020-04-20 00:00:00,NECONCLUDENT
+X,FEMININ,3,2020-04-18 00:00:00,"febra, epistaxis, inapetenta,constipatie",2020-04-20 00:00:00,"faringe congestionat, tegumente palide",AMIGDALITA ACUTA. EPISTAXIS,NU,NU,NU,2020-04-20 00:00:00,NEGATIV
+X,MASCULIN,2 LUNI,2020-04-18 00:00:00,VARSATURI,2020-04-18 00:00:00,"afebril,tegumente palide,pliu later-abdominal lenes ,pulm.MV normal,fara raluri","SAD GR II PRIN VARSATURI,STENOZA HIPERTROFICA DE PILOR IN OBS",NU E CAZUL,NU,NU,2020-04-20 00:00:00,NEGATIV
+X,FEMININ,29,2020-04-18 00:00:00,Asimptomatica,2020-04-18 00:00:00,ASIMPTOMATICA,"Sarcina 37 saptamani ,fat viou unic ,membrane rupte, debut de travaliu",NU,0,NU,2020-04-20 00:00:00,NEGATIV
+X,MASCULIN,67,2020-04-17 00:00:00,"febra,tuse seaca,mialgii",2020-04-20 00:00:00,"febra,tuse seaca,mialgii","susp.Covid 19,diabet zaharat ,bronhopneumonie",nu,nu,nu,2020-04-20 00:00:00,NEGATIV
+X,FEMININ,44,2020-04-20 00:00:00,ASIMPTOMATIC COVID,2020-04-20 00:00:00,ASIMPTOMATIC,"AUTOAGRESIUNE PLAGI LA NIVELUL GITULUI SI ANTEBRAT,TENTATIVA SUICID",NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-20 00:00:00,NEGATIV
+X,MASCULIN,59,2020-04-17 00:00:00,"TUSE  , FEBRA",2020-04-20 00:00:00,"TUSE , FEBRA","SUSPICIUNNE   SARS  COV-2 ,DIABET   ZAHARAT  TIPII, HTA",NU,NU,NU,2020-04-20 00:00:00,NEGATIV
+X,FEMININ,31,2020-04-17 00:00:00,"DISFAGIE, PIERDERE  GUST   MIROS",2020-04-20 00:00:00,"DISFAGIE, PIERDERE  GUST   MIROS","SUSPICIUNE   SARS COV  2, SARCINA 20 SAPTAMINI IN EVOLUTIE",DA,MASINA PERSONALA,DA,2020-04-20 00:00:00,NEGATIV
+X,FEMININ,18,2020-04-20 00:00:00,ASIMPTOMATICA,2020-04-20 00:00:00,ASIMPTOMATICA,"G I P I Sarcina 38/39 saptamani. Fat viu, unic. Membrane intacte. Prezentatie cefalica. Bazin osos normal. Debut de travaliu",NU,0,NU,2020-04-20 00:00:00,NEGATIV
+X,MASCULIN,37,2020-04-17 00:00:00,"adinofagii,dispnee",2020-04-20 00:00:00,"dispnee,adinofagie","susp. COVID 19, pneumopatie interstitiala",nu,nu,nu,2020-04-20 00:00:00,NEGATIV
+X,MASCULIN,70,2020-04-20 00:00:00,"tuse seaca,astenie,dispnee",2020-04-20 00:00:00,"tuse seaca,astenie,dispnee","susp.Covid 19,bronhopneumonie,DZ II",nu,nu,nu,2020-04-20 00:00:00,POZITIV
+X,MASCULIN,72,2020-04-20 00:00:00,"DEFICIT MOTOR, FEBRA",2020-04-20 00:00:00,DEFICIT MOTOR,"SUSPICIUNE SARS  COV  -2,ACCIDENT VASCULAR ISCHEMIC",NU,NU,NU,2020-04-20 00:00:00,NECONCLUDENT
+X,FEMININ,25,2020-04-17 00:00:00,TUSE  FEBRA,2020-04-20 00:00:00,TUSE  FEBRA,SUSPICIUNE SARS  COV  -2 SINDROM FEBRIL,DA,MASINA PERSONALA,DA,2020-04-20 00:00:00,NEGATIV
+X,FEMININ,19,2020-04-17 00:00:00,TUSE,2020-04-20 00:00:00,TUSE. TRANSPIRATII,"SUSPICIUNE SARS  COV  -2,SINDROM CEFALALGIC",DA,MASINA PERSONALA,DA,2020-04-20 00:00:00,NEGATIV
+X,FEMININ,29,2020-04-17 00:00:00,"TUSE, FEBRA",2020-04-20 00:00:00,TUSE FEBRA,"SUSPICIUNE SARS  COV  -2,PNEUMONIE INTERSTAILA",DA,MASINA PERSONALA,DA,2020-04-20 00:00:00,NEGATIV
+X,FEMININ,24,2020-04-20 00:00:00,ASIMPTOMATICA,2020-04-20 00:00:00,ASIMPTOMATICA,GII P II SARCINA 8/9 SAPTAMANI OPRITA IN EVOLUTIE,NU,0,NU,2020-04-20 00:00:00,NEGATIV
+X,MASCULIN,33,2020-04-18 00:00:00,TRANSPIRATII  VERTIJ DURERI ABDOMINALE,2020-04-20 00:00:00,TRANSPIRATII  VERTIJ DURERI ABDOMINALE,SUISPICIUNE SARS COV 2 BOALA CRONICA DE RINICHI  ST  II,DA,MASINA PERSONALA,DA,2020-04-20 00:00:00,NEGATIV
+X,FEMININ,31,2020-04-20 00:00:00,ASIMPTOMATICA,2020-04-20 00:00:00,ASIMPTOMATICA,Avort in curs luna I/II. Anemie secundara,NU,0,NU,2020-04-20 00:00:00,NEGATIV
+X,MASCULIN,68,2020-04-20 00:00:00,"tuse seaca,varsaturi",2020-04-20 00:00:00,Dureri toracice,"Suspiciune SARS- COV  02, Pneumopatie intersitiala, HTA",nu are,nu are,da,2020-04-20 00:00:00,POZITIV
+X,FEMININ,41,20.04.2020,ASIMPTOMATICA,20.04.2020,ASIMPTOMATICA,Sarcină 38/39 saptămâni.  Membrane intacte. PREZENTATIE CEFALICĂ.,NU,0,NU,2020-04-20 00:00:00,NEGATIV
+Z,FEMININ,16,2020-04-17 00:00:00,"varsaturi, scaune diareice, dureri abdominale",2020-04-21 00:00:00,"faringe hiperemic, amigdale hipertrofice,epigastralgii,tranzit intestinal accelerat, varsaturi bilioase",Gastroenterita acuta. Sdr. dureros abdominal.SAD gr II,nu,nu,nu,2020-04-21 00:00:00,NEGATIV
+X,MASCULIN,67,2020-05-08 00:00:00,ASIMPTOMATIC,2020-05-08 00:00:00,ASIMPTOMATIC,"AFEBRIL, NEO BRONHOPULMONAR",NEAGA,NU ESTE CAZUL,NU ȘTIE,2020-04-21 00:00:00,NEGATIV
+Z,MASCULIN,60,2020-04-07 00:00:00,"TUSE SEACA,DISPNEE",2020-04-21 00:00:00,"TUSE SEACA,DISPNEE","SUSP.INF COVID19,BRONHOPNEUMONIE",NU,NU,NU,2020-04-21 00:00:00,NEGATIV
+X,FEMININ,25,2020-04-21 00:00:00,ASIMPTOMATICA,2020-04-21 00:00:00,ASIMPTOMATICA,"GIII PIII    Sarcina  luna a IX-a. Fat viu,unic.Membrane intacte.Bazin osos. Travaliu. Uter cicatricial",nu,0,nu,2020-04-21 00:00:00,NEGATIV
+Y,FEMININ,35,2020-04-21 00:00:00,TUSE,2020-04-21 00:00:00,TUSE,GVII PIII SARCINA LUNA IX-A FAT VIU UNIC PREZ CEFALICA  MI BAZIN EUTOCIC DEBUT DE TRAVALIU SARCINA NEINVESTIGATA,NU,0,NU,2020-04-21 00:00:00,NEGATIV
+X,FEMININ,21,2020-04-21 00:00:00,"greturi, varsaturi, frisoane",2020-04-21 00:00:00,"greturi,varsaturi,frisoane","greturi,varsaturi,frisoane",Nu a calatorit,Nu,Nu,2020-04-21 00:00:00,NEGATIV
+X,FEMININ,59,2020-05-08 00:00:00,ASIMPTOMATIC,2020-05-08 00:00:00,ASIMPTOMATIC,"AFEBRIL, NEO BRONHOPULMONAR",NEAGA,NU ESTE CAZUL,NU ȘTIE,2020-04-21 00:00:00,NEGATIV
+Y,MASCULIN,72,2020-04-21 00:00:00,ASIMPTOMATIC COVID,2020-04-21 00:00:00,ASIMPTOMATIC,GANGRENA FOURNIER. DZ TIP II,NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-21 00:00:00,NEGATIV
+Y,FEMININ,16,2020-04-21 00:00:00,ASIMPTOMATICA,2020-04-21 00:00:00,ASIMPTOMATICA,GI PI SARCINA LUNA IX-A FAT VIU UNIC PREZ.CEFALICA MI BAZIN OSOS LIMITAT DEBUT DE TRAVALIU SARCINA NEINVESTIGATA MINORA,NU,0,NU,2020-04-21 00:00:00,NEGATIV
+Z,FEMININ,65,2020-04-21 00:00:00,ASIMPTOMATIC COVID,2020-04-21 00:00:00,ASIMPTOMATIC,"GANGRENA DIABETICA MEMBRU INFERIOR STANG, DZ.TIP II",NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-21 00:00:00,NEGATIV
+Y,MASCULIN,23,21 04 2020,asimptomatic,21 04 2020,nu are,Tulburari mentale datorita consumului de substante psihoactve,nu ,nu e cazul,nu,2020-04-21 00:00:00,NEGATIV
+X,FEMININ,28,2020-04-21 00:00:00,ASIMPTOMATICA,2020-04-21 00:00:00,ASIMPTOMATICA," GI PI SARCINA 39/40 SAPT. FAT VIU, UNIC. PREZ CEFALICA . M.i.  BAZIN NORMAL. DEBUT TRAVALIU",NU,0,NU,2020-04-21 00:00:00,NEGATIV
+Y,FEMININ,51,2020-04-21 00:00:00,FEBRA  ,2020-04-21 00:00:00,"TUSE ,FEBRA ","SUSPICIUNNE   SARS  COV-2 ,ERTEM  NODOS, LITAZA RENALA",NU,NU,NU,2020-04-21 00:00:00,NEGATIV
+X,FEMININ,64,2020-04-21 00:00:00,"febra,frison",2020-04-21 00:00:00,"febra,frison","susp.Covid 19,pneumopatie interstitiala",nu,nu,da,2020-04-21 00:00:00,NEGATIV
+X,FEMININ,32,2020-04-21 00:00:00,ASIMPTOMATICA,2020-04-21 00:00:00,ASIMPTOMATICA,GIIPI Sarcina 39/40 sapt. Fat viu unic. Prez cefalica. MI: Debut travaliu,nu,0,nu,2020-04-21 00:00:00,NEGATIV
+Z,FEMININ,29,2020-04-21 00:00:00,DURERI TORACICE VARSATURI  DURERI ABDOMINALEQ,2020-04-21 00:00:00,DURERI ABDOMINALE DURERI TORACICE   VARSATURI ,SUISPICIUNE SARS COV 2 MELANOM MALIGN,NU,NU,NU,2020-04-21 00:00:00,NEGATIV
+Z,FEMININ,72,2                                                          20.04.2020,AMETELI LIPOTIMIE,2020-04-21 00:00:00,STARE DE SLABICIUNE   PALPITATII                                                                                                                                                                                                                        ,"SUSPICIUNE   SARS COV  2,   FIBRILATIE",NU,NU,NU,2020-04-21 00:00:00,NEGATIV
+X,FEMININ,19,2020-04-21 00:00:00,ASIMPTOMATICA,2020-04-21 00:00:00,ASIMPTOMATICA,GII PI Sarcina 37/38 sapt. Prez. Cefalica.M. Intacte.ROC: IUGR. Anemie secundara.,NU,0,Nu,2020-04-21 00:00:00,NEGATIV
+X,FEMININ,52,2020-05-07 00:00:00,dispnee,2020-05-07 00:00:00,dispnee,Insuficienta respiratorie ac.Suspiciune SARS CoV 2.DZ tip II.Obezitate gr.II.BCR in program de HD,NU,NU,NU,2020-04-21 00:00:00,NEGATIV
+Y,MASCULIN,53,2020-06-04 00:00:00,"dispnee, fatigabilitate",2020-06-04 00:00:00,"dispnee, fatigabilitate, astenie",Insuficienta respiratorie acuta. Suspiciune infectie SARS Cov-2. Abces pulmonar LID si mediastinal. IRC in program de hemodializa. HTA std.III. DZ tip II insulino-necesitant,nu,nu,nu,2020-04-21 00:00:00,NEGATIV
+Y,FEMININ,38,2020-04-21 00:00:00,ASIMPTOMATICA,2020-04-21 00:00:00,ASIMPTOMATICA,ENDOMETRITA HEMORAGICA POST AB  SANGERARE ABUNDENTA,NU,0,NU,2020-04-21 00:00:00,NEGATIV
+Y,FEMININ,71,2020-04-20 00:00:00,"TUSE,FEBRA",2020-04-21 00:00:00,"TUSE,FEBRA","SUSP.INF.COVID19,PRONHOPNEUMONIE",NU,NU,NU,2020-04-21 00:00:00,POZITIV
+Z,MASCULIN,84,2020-04-21 00:00:00,"OLIGURIE,SCAUNE CU SANGE ROSU",2020-04-22 00:00:00,"OLIGURIE,SCAUNE CU SANGE ROSU","SUSP.INF.COVID19,LEUCEMIE AC",NU,NU,NU,2020-04-21 00:00:00,NEGATIV
+X,MASCULIN,72,2020-04-21 00:00:00,"febra ,dispnee",2020-04-21 00:00:00,GRAVA,"insuf,respiratorie",nu,nu,nu,2020-04-21 00:00:00,NEGATIV
+Z,MASCULIN,74,2020-04-21 00:00:00,ASIMPTOMATIC COVID,2020-04-21 00:00:00,ASIMPTOMATIC,FRACTURA PERTROHANTERIANA FEMUR DRT.,NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-21 00:00:00,NEGATIV
+Z,FEMININ,83,2020-04-20 00:00:00,DURERI MEMBRUL INFERIOR DREPT,2020-04-21 00:00:00,DURERI MEMBRUL INFERIOR DREPT,"SUSPICIUNE SARS  COV 2, ARTERIPATIE OBLITERNATA CRONICA",NU,NU,NU,2020-04-21 00:00:00,NEGATIV
+Y,MASCULIN,51,2020-04-17 00:00:00,210420,2020-04-17 00:00:00,DURERI   TORACUCE,"SUSPICIUNE SARS COV 2, ANGINA PECTORALA",NU,NU,NU,2020-04-21 00:00:00,NEGATIV
+Y,FEMININ,25,2020-04-21 00:00:00,ASIMPTOMATICA,2020-04-21 00:00:00,ASIMPTOMATICA,GI PI SARCINA LUNA IX-A FAT VIU UNIC PREZ CRANIANA MI BAZIN OSOS NORMAL DEBUT DE TRAVALIU,NU,0,NU,2020-04-21 00:00:00,NEGATIV
+X,MASCULIN,73,2020-05-28 00:00:00,ASIMPTOMATIC,2020-05-28 00:00:00,ASIMPTOMATIC,"AFEBRIL, NEO RECTAL",NEAGA,NU ESTE CAZUL,NU ȘTIE,2020-04-21 00:00:00,NEGATIV
+X,FEMININ,14,20.04.2020,ASIMPTOMATICA,2020-04-20 00:00:00,ASIMPTOMATICA,Avort in curs luna aII -a,nu,0,nu,2020-04-21 00:00:00,NEGATIV
+Y,FEMININ,34,2020-04-21 00:00:00,ASIMPTOMATICA,2020-04-21 00:00:00,ASIMPTOMATICA,IIGIIP Sarcină 41 săptămâni .Făt viu unic .Prezentaţie craniană .M.I.Bazin eutocic .TRAVALIU,NU,0,NU,2020-04-21 00:00:00,NEGATIV
+X,FEMININ,62,2020-05-04 00:00:00,ASIMPTOMATIC,2020-05-04 00:00:00,ASIMPTOMATIC,"AFEBRIL, NEO RENAL",NEAGA,NU ESTE CAZUL,NU ȘTIE,2020-04-21 00:00:00,NEGATIV
+Z,MASCULIN,87,2020-04-22 00:00:00,"febra,melena",2020-04-22 00:00:00,Grava,Insuficienta respiratorie. Suspiciune SARS COV 2. BPOC ,NU,NU,NU,2020-04-21 00:00:00,NEGATIV
+X,FEMININ,32,2020-04-21 00:00:00,ASIMPTOMATICA,2020-04-20 00:00:00,ASIMPTOMATICA,GII PII  SARCINA 38/39 SAPT. VAT VIU UNIC. PREZ.CEFALICĂ. M.I. BAZIN OSOS NORMAL. ROC. UTER CICATRICIAL.,NU,0,NU,2020-04-21 00:00:00,NEGATIV
+Y,MASCULIN,81,2020-06-04 00:00:00,"ASTENIE,PALOARE",2020-06-11 00:00:00,"ASTENIE,PALOARE","BCR,ANEMIE SEC.",NU,NU,NU,2020-04-21 00:00:00,NEGATIV
+Z,FEMININ,6,2020-04-21 00:00:00,"edeme plapebrale, eruptie tegumentara, tuse seaca",2020-04-21 00:00:00,"tegumente palide, edeme palpebrale, limba saburala, amigdale cu depozite pultacee,tuse rara, elemente micromaculopapuloase",Edem Quinke. Teren atopic.Amigdalita eritemato-pultacee,nu,nu,nu,2020-04-21 00:00:00,NEGATIV
+Z,FEMININ,65,2020-04-19 00:00:00,"DISPNEE,FATIGABILITATE",2020-04-21 00:00:00,"DISPNEE,FATIGABILITATE","SUSP.INF.COVID19,BRONHOPNEUMONIE",NU,NU,NU,2020-04-21 00:00:00,NEGATIV
+Z,FEMININ,91,2020-04-14 00:00:00,"DISPNEE,FATIGABILITATE",2020-04-21 00:00:00,"DISPNEE,FATIGABILITATE","SUSP.INF COVID19,FIBRILATIE ATRIALA",NU,NU,NU,2020-04-21 00:00:00,NEGATIV
+Z,MASCULIN,77,2020-04-21 00:00:00,ASIMPTOMATIC COVID,2020-04-22 00:00:00,ASIMPTOMATIC,HERNIE INGHINALA DREAPTA STRANGULATA,NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-21 00:00:00,NEGATIV
+Y,FEMININ,28,2020-04-21 00:00:00,ASIMPTOMATICA,2020-04-21 00:00:00,ASIMPTOMATICA,GII PI SARCINA LUNA IX-A FAT VIU UNIC PREZ CEFALICA MI BAZIN EUTOCIC DEBUT DE TRAVALIU UTER CICATRICEAL,NU,0,NU,2020-04-21 00:00:00,NEGATIV
+Z,FEMININ,74,2020-04-21 00:00:00,PALPITATII,2020-04-21 00:00:00,PALPITATII,TAHICARDIE VENTRICULARA,0,0,0,2020-04-21 00:00:00,NEGATIV
+Z,MASCULIN,34,2020-04-21 00:00:00,ASIMPTOMATIC COVID,2020-04-21 00:00:00,ASIMPTOMATIC,"PLAGA CONTUZA (PISTOL CU PRESIUNE-VOPSEA), FARA ANTECEDENTE F3 INDEX STG. CU SEMNE INFLAMATORII MARCATE",NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-21 00:00:00,NEGATIV
+Y,FEMININ,27,1900-01-21 01:00:31,ASIMPTOMATICA,2020-04-21 00:00:00,ASIMPTOMATICA,"GIPI.Sarcină luna A-IX A.Făt viu unic Prez.Craniană M.i. Bazin osos normal.ROC,RH-.Metroragie minimala",NU,0,NU,2020-04-21 00:00:00,NEGATIV
+Z,FEMININ,73,2020-04-17 00:00:00,"TUSE,DISPNEE",2020-04-21 00:00:00,"TUSE,DISPNEE","SUSP.INF COVID19,PNEUMONIE,DZTIP1,FIA",NU,NU,NU,2020-04-21 00:00:00,POZITIV
+Y,FEMININ,10,21.04.2020,tegumente palide,21.04.2020,tegumente palide,Suspect infectie COVID-19,0,0,da( focar familial),2020-04-21 00:00:00,NEGATIV
+Z,MASCULIN,55,2020-04-16 00:00:00,"TUSE,SUBFEBRILITATI",2020-04-21 00:00:00,"TUSE,SUBFEBRILITATI","SUSP.INF.COVID19,BRONHOPNEUMONIE",NU,NU,NU,2020-04-21 00:00:00,POZITIV
+Z,MASCULIN,84,2020-04-11 00:00:00,"DISPNEE,TUSE SEACA",2020-04-21 00:00:00,DISPNEE TUSE SEACA,"SUSP.COVID19,INSUF.RESPIRATORIE",NU,NU,NU,2020-04-21 00:00:00,NEGATIV
+Z,MASCULIN,73,2020-04-14 00:00:00,"DISFAGIE,TUSE SEACA,FEBRA",2020-04-21 00:00:00,"TUSE SEACA,FEBRA,DISFAGIE","SUSP.INF.COVID19,DZ TIP2",NU,NU,NU,2020-04-21 00:00:00,NEGATIV
+Y,MASCULIN,47,2020-04-21 00:00:00,asimptomatic,2020-04-21 00:00:00,nu are,Schizofrenie pranoida,nu ,nu e cazul,nu,2020-04-21 00:00:00,NEGATIV
+Z,MASCULIN,9 ani,2020-04-21 00:00:00,fara,2020-04-21 00:00:00,"stare generala buna, afebril, apetent,tegumente palide,faringe normal colorat,amigdale hipertrofice, buze uscate,abdomen moale, nedureros",Rectocolita ulcero-hemoragica,nu,nu,nu,2020-04-21 00:00:00,NEGATIV
+Z,MASCULIN,76,2020-04-22 00:00:00,ASIMPTOMATIC COVID,2020-04-22 00:00:00,ASIMPTOMATIC,FRACTURA PERTROHANTERIANAFEMUR STANG,NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-22 00:00:00,NEGATIV
+Z,MASCULIN,35,2020-04-22 00:00:00,ASIMPTOMATIC COVID,2020-04-22 00:00:00,ASIMPTOMATIC,FRACTURA SUBTROHANTERIANA FEMUR STANG,NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-22 00:00:00,NEGATIV
+Z,MASCULIN,14,2020-04-22 00:00:00,"prurit intens, eruptie maculopapuloasa, edeme palpebrale",2020-04-22 00:00:00,tegumente cu eruptie maculopapuloasa,Urticarie acuta. TCC in antecedente,nu,nu,nu,2020-04-22 00:00:00,NEGATIV
+Z,FEMININ,43,2020-04-22 00:00:00,ASIMPTOMATIC COVID,2020-04-22 00:00:00,ASIMPTOMATIC,FRACTURA PERTROHANTERIANA BILATERALA,NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-22 00:00:00,NEGATIV
+Y,MASCULIN,76,2020-05-18 00:00:00,ASIMPTOMATIC,2020-05-18 00:00:00,ASIMPTOMATIC,"AFEBRIL, NEO PROSTATĂ",NEAGA,NU ESTE CAZUL,NU ȘTIE,2020-04-22 00:00:00,NEGATIV
+Y,MASCULIN,65,2020-04-20 00:00:00,DURERE LATEROCERVICALA STG.TUMEFACTIE ADENOPATIE,2020-04-21 00:00:00, DURERE  LATEROCERVICAL STG., TUMEFACTIE SI DURERE,NU,NU,NU,2020-04-22 00:00:00,NEGATIV
+Z,FEMININ,61,2020-04-22 00:00:00,ASIMPTOMATIC COVID,2020-04-22 00:00:00,ASIMPTOMATIC,"ABCES MAXILAR DREPT SUPRAINFECTAT, STARE SEPTICA",NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-22 00:00:00,NEGATIV
+Z,MASCULIN,73,2020-04-15 00:00:00,DISPNEE FEBRA,2020-04-22 00:00:00,DISPNEE   ASTENIE ,"SUSPICIUNE   SARS  COV2, PNEUMONE BAZALA STANGA ",NU,NU,NU,2020-04-22 00:00:00,NEGATIV
+Z,FEMININ,81,2020-04-22 00:00:00,FRISON ASTENIE AMETELI,2020-04-22 00:00:00,FRISON INAPETENTA,SUSPICIUNE SARS  COV 2 MIELOM MULTIPLU  ANEMIE SECUNDARA,NU,NU,NU,2020-04-22 00:00:00,NEGATIV
+Z,FEMININ,93,2020-04-15 00:00:00,DISPNEE TUSE,2020-04-22 00:00:00,"DISPNEE,TUSE","SUSP.INF.COVID,HTA,FIA",NU,NU,NU,2020-04-22 00:00:00,NEGATIV
+Y,FEMININ,15,NU,ASIMPTOMATICA,2020-04-22 00:00:00,ASIMPTOMATICA,"GIIPII Sarcina  luna aIX .Fat viu, prezentatie cefalica, membrane intacte, bazin eutocic . Debut de travaliu. Sarcina insuficient investigata.",NU,NU,NU,2020-04-22 00:00:00,NEGATIV
+Y,MASCULIN,44,2020-04-22 00:00:00,"DISFAGIE,ODINOFAGIE",22.04.2020.,"DISFAGIE,ODINOFAGIE",SUSPICIUNE CORP STRAIN ESFAGIAN,NU,NU,NU,2020-04-22 00:00:00,NEGATIV
+Z,FEMININ,11,2020-04-22 00:00:00,"febra inalta, 3 v arsaturi, 3 scaune apoase",2020-04-20 00:00:00,"febra inalta,   arsaturi,  scaune apoase",Gastroenterita acuta. SAD GR II Itu recurenta,nu,nu,nu,2020-04-22 00:00:00,NEGATIV
+Y,FEMININ,31,2020-04-22 00:00:00,ASIMPTOMATICA,2020-04-22 00:00:00,ASIMPTOMATICA,"GIIPII Sarcina20 saptamani , amenintate de ab",NU,0,NU,2020-04-22 00:00:00,NEGATIV
+X,MASCULIN,67,2020-04-25 00:00:00,"paloare, astenie, fatigabilitate",2020-04-25 00:00:00,"paloare, astenie, fatigabilitate","SUSP.INF.COVID, SDR ANEMIC SEVER, BOLA CR DE RINICHI",NU,NU,NU,2020-04-22 00:00:00,NEGATIV
+Z,MASCULIN,56,2020-04-19 00:00:00,"FEBRA, TUSE",2020-04-22 00:00:00,ASIMPTOMATIC,"CONTUZIE HEMORAGICA TEMPORAL DREAPTA, ETILISM CRONIC, CRIZE COMITIALE PE FOND TOXIC, TROMBOCITOPENIE",NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-22 00:00:00,NEGATIV
+Z,MASCULIN,37,2020-04-22 00:00:00,ASTENIE FEBRA,2020-04-22 00:00:00,ASTENIE   FEBRA,SUSPICIUNE SARS  COV 2  PNEUMONIE BAZALA DREAPTA,NU,NU,NU,2020-04-22 00:00:00,NEGATIV
+Y,FEMININ,43,2020-05-18 00:00:00,ASIMPTOMATIC COVID,2020-05-18 00:00:00,ASIMPTOMATIC COVID,"COLECISTITA ACUTA LITIAZICA,COLICA BILIARA",NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-22 00:00:00,POZITIV
+Y,MASCULIN,65,2020-05-04 00:00:00,ASIMPTOMATIC,2020-05-04 00:00:00,ASIMPTOMATIC,"AFEBRIL, NEO CORP PANCREAS",NEAGA,NU ESTE CAZUL,NU ȘTIE,2020-04-22 00:00:00,NEGATIV
+Z,FEMININ,50,2020-04-12 00:00:00,"TUSE,DISPNEE",2020-04-22 00:00:00,"TUSE,DISPNEE","SUSP.COVID 19,PNEUMONIE BILATERALA",NU,NU,NU,2020-04-22 00:00:00,NEGATIV
+Y,FEMININ,24,2020-04-22 00:00:00,ASIMPTOMATICA,2020-04-22 00:00:00,ASIMPTOMATICA,"GIPI Sarcina l IX fat viu unic, prezentatie cefalica,membrane intacte ,bazin ososstramtat, travaliu",NU,0,NU,2020-04-22 00:00:00,NEGATIV
+Y,FEMININ,14,2020-04-18 00:00:00,DURERI ABDOMINALE,2020-04-25 00:00:00,"VARSATURI,SCAUNE MODIFICATE",GASTROENTEROCOLITA ACUTA,0,0,0,2020-04-22 00:00:00,NEGATIV
+Y,MASCULIN,73,2020-05-27 00:00:00,ASIMPTOMATIC,2020-05-27 00:00:00,ASIMPTOMATIC,"AFEBRIL, NEO RECTAL",NEAGA,NU ESTE CAZUL,NU ȘTIE,2020-04-22 00:00:00,NEGATIV
+X,FEMININ,63,2020-05-19 00:00:00,ASIMPTOMATIC,2020-05-19 00:00:00,ASIMPTOMATIC,"AFEBRIL, NEO COL UTERIN",NEAGA,NU ESTE CAZUL,NU ȘTIE,2020-04-22 00:00:00,NEGATIV
+Z,MASCULIN,43,2020-04-22 00:00:00,ASTENIE FEBRA,2020-04-22 00:00:00,"AFEBRIL , ASTENIE",SUSPICIUNE SARS  COV 2    VIROZA RESPIRATORIE CU ALTERAREA  STARII GENERALE ,NU,NU,NU,2020-04-22 00:00:00,NEGATIV
+Z,FEMININ,61,2020-04-20 00:00:00,"GREATA, VARSATURI, DURERI ABDOMINALE",2020-04-22 00:00:00,"GREATA, VARSATURI, DURERI ABDOMINALE","COLECISTITA ACUTA LITIAZICA, DIABET ZAHARAT TIP II, HTA",NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-22 00:00:00,NEGATIV
+Z,FEMININ,69,2020-04-12 00:00:00,SCADEREA FORTEI MUSCULARE,2020-04-22 00:00:00,SCADEREA FORTEI MUSCULARE,"SUSP.COVID 19,SINDROM TETRAPARETIC",NU,NU,NU,2020-04-22 00:00:00,NEGATIV
+Y,FEMININ,35,2020-04-22 00:00:00,ASIMPTOMATICA,2020-04-22 00:00:00,ASIPTOMATICA,"GIPIsarcina lIX ,fat viu unic,prezentatie cefalica,,membrane intacte,bazin osos normal, debut de travaliu",NU,0,NU,2020-04-22 00:00:00,NEGATIV
+Y,FEMININ,27,2020-04-22 00:00:00,ASIMPTOMATICA,2020-04-22 00:00:00,ASIMPTOMATICA,GI PI Sarcina 38/39 sapt. Fat viu. Prezentatie craniana. M.I. Bazion osos normal. Travaliu,NU,0,NU,2020-04-22 00:00:00,NEGATIV
+Y,MASCULIN,62,2020-04-30 00:00:00,ASIMPTOMATIC,2020-04-30 00:00:00,ASIMPTOMATIC,"AFEBRIL, NEO AMIGDALĂ",NEAGA,NU ESTE CAZUL,NU ȘTIE,2020-04-22 00:00:00,NEGATIV
+Y,FEMININ,29,2020-04-22 00:00:00,ASIMPTOMATICA,2020-04-22 00:00:00,ASIMPTOMATICA,"GIPI Sarcina luna a IX a. Far viu, unic. Prezentatie cefalica. M.I. Bazin osos normal. Debut de travaliu.",NU,0,NU,2020-04-22 00:00:00,NEGATIV
+Z,MASCULIN,66,2020-04-28 00:00:00,DISPNEE,"29,04,2020",DISPNEE,"SUSP.INF.COVID 19,AVC CEREBRAL,HEMIPAREZA DREAPTA",NU,NU,NU,2020-04-22 00:00:00,NEGATIV
+Z,FEMININ,35,2020-04-22 00:00:00,ASIMPTOMATIC COVID,2020-04-22 00:00:00,ASIMPTOMATIC,"TRAUMATISM MAXILO-FACIAL, EPISTAXIS, FRACTURI COSTALE, FRACTURI PIRAMIDA NAZALA",NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-22 00:00:00,NEGATIV
+Y,MASCULIN,69,2020-06-03 00:00:00,ASIMPTOMATIC,2020-06-03 00:00:00,ASIMPTOMATIC,"AFEBRIL, NEO COLON",NEAGA,NU ESTE CAZUL,NU STIE,2020-04-22 00:00:00,NEGATIV
+Z,MASCULIN,28,2020-04-21 00:00:00,CONVULSII,2020-04-22 00:00:00,CONVULSII,"SUSP.INF.COVID19,CRIZA COMITIALA",NU,NU,NU,2020-04-22 00:00:00,NEGATIV
+X,FEMININ,91,2020-04-23 00:00:00,FEBRA,2020-04-26 00:00:00,FEBRA,"SUSP.INF.COVID,SDR.FEBRIL",NU,NU,DA,2020-04-23 00:00:00,NEGATIV
+Y,FEMININ,37,2020-04-23 00:00:00,TUSE,2020-04-23 00:00:00,ASIMPTOMATICA,SARCINA 14/15 SAPTAMANI IN EVOLUTIR AM.AB TROMBOFILIE EREDITARA TIROIDITA AUTOIMUNA INSUFICIENTA CERVICO-ISTMICA,NU,0,NU,2020-04-23 00:00:00,NEGATIV
+Y,FEMININ,84,2020-04-21 00:00:00,"TUSE SEACA, DISPNEE",2020-04-24 00:00:00,"FEBRA,TUSE",SUS.INF.COVID.PNEUMONIE AC.,NU,NU,NU,2020-04-23 00:00:00,POZITIV
+Z,MASCULIN,53,2020-04-16 00:00:00,"DISPNEE,TUSE PRODUCTIVA",2020-04-23 00:00:00,"DISPNEE,TUSE PRODUCTIVA","SUSP COVID 19,PNEUMOPATIE AC",NU,NU,NU,2020-04-23 00:00:00,NEGATIV
+Y,FEMININ,23,2020-04-23 00:00:00,ASIMPTOMATICA,2020-04-23 00:00:00,ASIMPTOMATICA,GII PII SARCINA LUNA IX-A UTER CICATRICEAL TRAVALIU,NU,0,NU,2020-04-23 00:00:00,NEGATIV
+Y,MASCULIN,63,2020-04-21 00:00:00,"DURERE LA NIVELUL ANTEBRATULUI,COTULUI STG",2020-07-13 00:00:00,DURERE SI IMPOTENTA FUNCTIONALA ANTEBRAT STANG,"FRACTURA OBLICA 1/3 DISTALA DIAFIZA CUBITUS STG,PLAGI ESCORIATE FATA DORSALA ANTEBRAT BILATERAL,TRAUMATISM PRIN ACCIDENT RUTIER-PIETON,SUSP INF SARS COV2",NU,NU,NU,2020-04-23 00:00:00,POZITIV
+Z,MASCULIN,43,2020-04-22 00:00:00,"ASTENIE,TUSE",2020-04-23 00:00:00,"ASTENIE,TUSE","SUSP.INF.COVID,PNEUMOPATIE CU HEMOPTIZIE",NU,NU,NU,2020-04-23 00:00:00,NEGATIV
+Z,FEMININ,80,2020-04-27 00:00:00,"TUSE , FEBRA  DISPNEE",2020-04-27 00:00:00,TUSE DISPNEE  AFEBRILA,SUSPICIUNE COVID 19. DIABET ZAHARAT   HTA  AMPUTATIE  COAPSA DREAPTA,NU,NU,DA,2020-04-23 00:00:00,NEGATIV
+X,FEMININ,39,NU,ASIMPTOMATICA,2020-04-23 00:00:00,ASIMPTOMATICA,SARCINĂ CU LOCALIZARE NEPRECIZATĂ. TUMORĂ ANEXIALĂ,NU,0,NU,2020-04-23 00:00:00,NEGATIV
+Y,MASCULIN,62,2020-04-22 00:00:00,RINORAGIE,2020-04-22 00:00:00,RINORAGIE,EPISTAXIS ANTERIOR BILATERAL,NU,NU,NU,2020-04-23 00:00:00,NEGATIV
+Y,MASCULIN,51,2020-07-06 00:00:00,DURERI ABDOMINALE,2020-07-07 00:00:00,DURERI ABDOMINALE,"COLICA ABDOMINALA,ASCITA DE ETIOLOGIE NEPRECIZATA,INSUFICIENTA RENALA CRONICA,SUSPICIUNE INFECTIE SARS-COV2",NU,NU,NU,2020-04-23 00:00:00,NEGATIV
+Y,MASCULIN,55,2020-06-12 00:00:00,ASIMPTOMATIC,2020-06-12 00:00:00,ASIMPTOMATIC,"AFEBRIL, NEO BRONHOPULMONAR",NEAGA,NU ESTE CAZUL,NU STIE,2020-04-23 00:00:00,NEGATIV
+Y,FEMININ,31,2020-04-23 00:00:00,ASIMPTOMATICA,2020-04-23 00:00:00,ASIMPTOMATICA,GIII PII SARCINA 38/39 SAPTAMANI FAT VIU PREZENTATIE CEFALICA MI BAZIN NORMAL RO UTER CICATRICEAL ANEMIE SECUNDARA HIDRONEFROZA GR II DEBUT DE TRAVALIU,NU,0,NU,2020-04-23 00:00:00,NEGATIV
+Z,MASCULIN,87,"29,04,2020","TUSE,FEBRA","29,04,2020","TUSE,FEBRA","SUSP.INF.COVID 19,HTA,AMPUTATIE VECHE COAPSA DR.",NU,NU,NU,2020-04-23 00:00:00,NEGATIV
+Y,MASCULIN,42,"04,05,2020",HTA,"04,05,2020",ASIMPTOMATIC COVID,"ABD.ACUT IN OBSERVATIE,HTA GR.III,BCR ST. V,NEOPLASM RECT OPERAT,ANEMIE SECUNDARA,CARDIOPATIE ISCHEMICA SI HIPERTENSIVA",NU ESTE CAZUL,NU ESTE CAZUL,NU ESTE CAZUL,2020-04-23 00:00:00,NEGATIV
+Z,MASCULIN,8,2020-04-23 00:00:00,agitatie psihomotorie,2020-04-23 00:00:00,agitatie psihomotorie ,Agitatie psihomotorie .Atac de panica,0,0,nu,2020-04-23 00:00:00,NEGATIV
+Z,FEMININ,70,2020-04-22 00:00:00,DISPNEE,2020-04-22 00:00:00,DISPNEE,SUSP COVID 19 ,NU,NU,NU,2020-04-23 00:00:00,NEGATIV
+Y,MASCULIN,66,2020-05-14 00:00:00,FEBRA  TUSE  ASTENIE,2020-05-14 00:00:00,FEBRA  TUSE  ASTENIE,SUSPICIUINE   SARS COV 2 AVC ISCHEMIC,NU,NU,NU,2020-04-23 00:00:00,NEGATIV
+Y,MASCULIN,48,2020-04-20 00:00:00,"DISPNEE,DISFAGIE",2020-04-23 00:00:00,"DISPNEE,DISFAGIE","SUSP COVID 19,HTA,IM SECHELAR",NU,NU,NU,2020-04-23 00:00:00,POZITIV
+Y,FEMININ,34,2020-04-23 00:00:00,ASIMPTOMATICA,2020-04-23 00:00:00,ASIMPTOMATICA,G IV P III Sarcină 40 săptămâni. Făt viu. Prez. cefalică. M.I. Bazin eutocic. Debut de travaliu. Sarcină neinvestigată,NU,0,NU,2020-04-23 00:00:00,NEGATIV
+Y,FEMININ,42,2020-04-23 00:00:00,ASIMPTOMATICA,2020-04-23 00:00:00,ASIMPTOMATICA,GII PIII SARCINA LUNA IX-A EXPULZIE SARCINA NEINVESTIGATA,NU,0,NU,2020-04-23 00:00:00,NEGATIV
+Y,FEMININ,88,2020-05-24 00:00:00,FEBRA;DURERE TORACICA POSTERIOARA,2020-05-26 00:00:00,FEBRA ;DURERE TORACICA POSTERIOARA,SUSPICIUNE INFECTIE SARS COV 2;ITU,NU,NU ARE,NU,2020-04-23 00:00:00,POZITIV
+X,FEMININ,21,NU,ASIMPTOMATICA,2020-04-23 00:00:00,ASIMPTOMATICA,"P II SARCINĂ LUNA IX-A. FĂT VIU, UNIC. PREZ. CEFALICĂ. M.I.  UTER CICATRICIAL. TRAVALIU",NU,0,NU,2020-04-23 00:00:00,NEGATIV
+Z,MASCULIN,67,2020-04-27 00:00:00,FeBRA TUSE,2020-04-27 00:00:00,AFBRIL,"SUSPICIUNE  COVID   19, HEMIPAREZA   STANGA",NU,NU,DA,2020-04-23 00:00:00,NEGATIV
+Y,MASCULIN,63,"07,05,2020",ASIMPTOMATIC COVID,"07,05,2020",ASIMPTOMATIC COVID,GANGRENA DIABETICA GAMBA PICIOR STG.,NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-23 00:00:00,NEGATIV
+Z,FEMININ,45,2020-04-20 00:00:00,"FEBRA,MIALGII",2020-04-23 00:00:00,"FEBRA,MIALGII","SUSP.COVID 19 ,PNEUMONIE INTERSTITIALA",NU,NU,NU,2020-04-23 00:00:00,NEGATIV
+Y,FEMININ,42,2020-04-30 00:00:00,ASIMPTOMATIC,2020-04-30 00:00:00,ASIMPTOMATIC,"AFEBRIL, NEO COL UTERIN",NEAGA,NU ESTE CAZUL,NU ȘTIE,2020-04-23 00:00:00,NECONCLUDENT
+Y,MASCULIN,71,2020-04-23 00:00:00,"dizartrie,tulb.echilibru",2020-04-23 00:00:00,"dizartrie,tulb.echilibru",SUSPICIUNE INFECTIE SARS COVID 19AVC ISCHEMIC.SUSPECT COVID-19,NU,NU,NU,2020-04-23 00:00:00,NEGATIV
+Z,FEMININ,83,2020-04-23 00:00:00,dispnee,2020-04-23 00:00:00,GRAVA,Insuficienta respiratorie. Suspiciune SARS COV 2. BPOC ,NU,NU,NU,2020-04-23 00:00:00,POZITIV
+X,FEMININ,38,NU,ASIMPTOMATICA,2020-04-23 00:00:00,ASIMPTOMATICA,AVORT IN CURS 19/20/SAPTAMANI.MEMBRANE RUPTE,NU,0,NU,2020-04-23 00:00:00,NEGATIV
+Y,FEMININ,43,2020-04-23 00:00:00,DURERI ABD. GRETURI VARSATURI.,2020-04-23 00:00:00,"DURERI ABD. GRETURI,VARSATURI", SUSPICIUNE INFECTIE   SARC COV 19 INFECTIE DE TRACT URINAR,NU,NU,NU,2020-04-23 00:00:00,NEGATIV
+Y,FEMININ,9,2020-04-22 00:00:00,tuse,2020-04-03 00:00:00,tuse,"febra, tuse",0,0,0,2020-04-23 00:00:00,NEGATIV
+X,FEMININ,16,NU,ASIMPTOMATICA,2020-04-23 00:00:00,ASIMPTOMATICA,GIPI SARCINA L A IX A .FAT VIU.MI.PREZENTATIE CEFALICA.BAZIN PROPORTIONAL STRAMTAT.DEBUT DE TRAVALIO.RO.MINORA.SARCINA INSUFICIENT INVESTIGATA,NU,0,NU,2020-04-23 00:00:00,NEGATIV
+Y,FEMININ,27,2020-04-22 00:00:00,ASIMPTOMATICA,2020-04-22 00:00:00,ASIMPTOMATICA,"GIPII Sarcina 38/39 saptamani, fat viu, prezentatie cefalica, membrane intacte, bazin osos normal uter cicatricial, fumatoare.Anemie secundara, debut de travaliu",NU,0,NU,2020-04-23 00:00:00,NEGATIV
+Y,FEMININ,28,2020-04-23 00:00:00,ASIMPTOMATICA,2020-04-23 00:00:00,ASIMPTOMATICA,GIPI  Sarcină 38/39 săptămani.Făt viu. Prez. cefalica. Membrane rupte ora 4:45. Bazin osos normal. Debut de travaliu. Anemie secundară,NU,0,NU,2020-04-23 00:00:00,NEGATIV
+Y,FEMININ,36,2020-04-23 00:00:00,ASIMPTOMATICA,2020-04-23 00:00:00,ASIMPTOMATICA,GV PI SARCINA 40/41 SAPTAMANI  FAT VIU UNIC PREZ CRANIANA MI BAZIN OSOS NORMAL TRAVALIU ROC PRAEVIA PARTIAL CENTRALA METRORAGIE MINIMA PERSISTENTA,NU,0,NU,2020-04-23 00:00:00,NEGATIV
+Y,FEMININ,71,2020-05-18 00:00:00,ASIMPTOMATIC,2020-05-18 00:00:00,ASIMPTOMATIC,"AFEBRIL, METAOSOASE",NEAGA,NU ESTE CAZUL,NU ȘTIE,2020-04-23 00:00:00,NEGATIV
+Y,FEMININ,89,PROMAGISTIC NEURO/ATIII,"dispnee,HTA ,CEFALEE,",2020-05-19 00:00:00,"dispnee, HTA, Confuz,cefalee","Insuficienta respiratorie ac.AVC ischemic,HTA, Suspiciune SARS COV 2",NU,NU,NU,2020-04-23 00:00:00,POZITIV
+Y,FEMININ,78,2020-04-23 00:00:00,dispnee,2020-04-23 00:00:00,GRAVA,"Insuf.respiratorie,Suspiciune SARS COV",NU,NU,NU,2020-04-23 00:00:00,NEGATIV
+Z,FEMININ,54,2020-04-23 00:00:00,dispnee,2020-04-23 00:00:00,GRAVA,Insuficienta respiratorie acuta.Suspiciune SARS COV 2,NU,NU,NU,2020-04-23 00:00:00,NEGATIV
+Y,FEMININ,60,2020-04-23 00:00:00,"febra,melena,lipotimie",2020-04-23 00:00:00,GRAVA,"Insuficienta respirarie,",nu,nu,nu,2020-04-24 00:00:00,NEGATIV
+X,FEMININ,76,2020-04-24 00:00:00,"varsaturi, hematemeza",2020-04-25 00:00:00,"varsaturi,hematemeza",SUSP.INF.COVID.HDS EXTERIORIZATA,NU,NU,NU,2020-04-24 00:00:00,NEGATIV
+X,FEMININ,27,NU,ASIMPTOMATICA,2020-04-24 00:00:00,ASIMPTOMATICA,"GIPI SARCINĂ 40/41 SĂPTĂMÂNI.FĂT VIU,UNIC.PREZENTAŢIE CRANIANĂ.M.I. BAZIN OSOS NORMAL.DEBUT DE TRAVALIU",NU,0,NU,2020-04-24 00:00:00,NEGATIV
+X,MASCULIN,64,31..03.2020,"TUSE SEACA, FRISOANE",2020-04-24 00:00:00,DISPNEE   ASTENIE ,SUSPICIUNE SARS COV2; CARDIOMIOPATIE DILATATIVA,NU,NU,NU,2020-04-24 00:00:00,NEGATIV
+Z,FEMININ,75,2020-04-12 00:00:00,"HEMATURIE,AFAZIE",2020-04-24 00:00:00,"HEMATURIE,AFAZIE","SUSP.COVID 19 ,HEMATURIE,AVC ISCHEMIC",NU,NU,NU,2020-04-24 00:00:00,NEGATIV
+X,FEMININ,27,NU,ASIMPTOMATICA,2020-04-24 00:00:00,ASIMPTOMATICA,GII PII SARCINA35/36 SAPTAMANI.FAT VIU.MEMBRANE INTACTE.PREZENTATIE CEFALICA.BAZIN OSOS NORMAL.UTER CICATRICIAL.TROMBOFILIE.DEBUT TRAVALIU,NU,0,NU,2020-04-24 00:00:00,NEGATIV
+X,MASCULIN,46,2020-04-24 00:00:00,dispnee.febra.tuse seaca,2020-04-24 00:00:00,"dispnee,febra.tuse seaca",stationar,nu,nu,nu,2020-04-24 00:00:00,NEGATIV
+Z,FEMININ,81,2020-04-15 00:00:00,"DISPNEE,FEBRA",2020-04-22 00:00:00,"DISPNEE,FEBRA","SUSP COVID 19,PNEUMONIE  INTERSRTITIALA",NU,NU,NU,2020-04-24 00:00:00,NEGATIV
+Y,MASCULIN,73,2020-04-27 00:00:00,ASIMTOMATIC,2020-04-27 00:00:00,NU PREZINTA,STATIONAR,NU,NU,NU,2020-04-24 00:00:00,POZITIV
+X,MASCULIN,7,2020-04-24 00:00:00,ASIMPTOMATIC,2020-04-24 00:00:00,ASIMPTOMATIC,FARA,NU,NU,NU,2020-04-24 00:00:00,NEGATIV
+X,MASCULIN,36,2020-06-13 00:00:00,ASIMPTOMATICA,2020-06-13 00:00:00,ASIMPTOMATICA,"ANEXITA MACROLEZIONALA DREAPTA, BOALA ADERENTIALA, SINDROM ANXIOS DEPRESIV",NU,NU,NU,2020-04-24 00:00:00,NEGATIV
+Z,FEMININ,46,2020-04-24 00:00:00,asimptomatic,2020-04-24 00:00:00,nu are,"Agitatie psihomotorie,Reactie anxioasa,Retard mental moderat ,Tulburare organica de personalitate ,Anemie severa.",nu ,nu e cazul,nu,2020-04-24 00:00:00,NEGATIV
+X,FEMININ,75,2020-04-24 00:00:00,ASIMPTOMATIC,2020-04-25 00:00:00,ASIMPTOMATIC COVID,"TCC ACUT,CONTUZIE CEREBRALA HEMORAGICA,FRACTURA OCCIPITAL DREAPTA,SECHELE AVC",NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-24 00:00:00,NEGATIV
+X,MASCULIN,81,2020-04-25 00:00:00,ASIMPTOMATIC,2020-04-24 00:00:00,ASIMPTOMATIC COVID,"TCC ACUT INCHIS CU PIERDERE DE CONSTIENTA PRIN ACCIDENT RUTIER,HEMATOM SUBDURAL TEMPORO-PARIETAL,TRIPLU BYPASS DZ TIP II,FRACTURA TEMPORO-PARIETALA DREAPTA,CONTUZII HEMORAGICE TEMPORO-PARIETALE.",NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-24 00:00:00,NEGATIV
+Y,MASCULIN,76,2020-04-20 00:00:00,"TUSE,SUBFEBRILITATI",2020-04-22 00:00:00,"TUSE,SUBFEBRILITATI","SUSP.COVID 19,PNEUMONIE BILATERALA",NU,NU,NU,2020-04-24 00:00:00,POZITIV
+X,FEMININ,63,2020-04-24 00:00:00,dispnee,2020-04-25 00:00:00,GRAVA,"Insuf.respiratorie,Suspiciune SARS COV",NU,NU,NU,2020-04-24 00:00:00,POZITIV
+X,FEMININ,34,NU,ASIMPTOMATICA,2020-04-24 00:00:00,ASIMPTOMATICA,"G II P II SARCINA LUNA A IX- A. FAT VIU, UNIC. PREZ. CRANIANA. M.I. BAZIN OSOS NORMAL. DEBUT DE TRAVALIU. ROC. UTER CICATRICIAL. RH NEGATIV",NU,0,NU,2020-04-24 00:00:00,NEGATIV
+X,MASCULIN,13,2020-04-24 00:00:00,ASIMPTOMATIC,2020-04-24 00:00:00,ASIMPTOMATIC,FARA,NU,NU,NU,2020-04-24 00:00:00,NEGATIV
+X,FEMININ,49,2020-04-24 00:00:00,"FEBRA, TUSE",2020-04-25 00:00:00,"FEBRA,TUSE",SUSP.INF.COVID.PNEUMONIE INTERST.,NU,NU,"DA,FARA DATA",2020-04-24 00:00:00,NEGATIV
+X,FEMININ,57,2020-05-08 00:00:00,"dispnee, febra",2020-05-08 00:00:00,dispnee,"Insuficienta respiratorie ac.Suspiciune SARS CoV 2.DZ tip II.Obezitate gr.II.BCR in program de HD, Sepsis cu punct de plecare neprecizat, ",NU,NU,NU,2020-04-24 00:00:00,NEGATIV
+X,FEMININ,27,NU,ASIMPTOMATICA,2020-04-24 00:00:00,ASIMPTOMATICA,GVI PIV Sarcina 37/38 sapt. Fat viu. Prezentatie craniana. Membrane fisurate. Bazin osos normal. Debut de travaliu. Uter cicatricial. Sarcina neinvestigata,NU,0,NU,2020-04-24 00:00:00,NEGATIV
+X,FEMININ,66,2020-04-24 00:00:00,"DISPNEE, TUSE SEACA",2020-04-24 00:00:00,"dispnee, tuse seaca",SUSP.INF.COVID.Neo.san bilat.Meta os.,Nu,NU,NU,2020-04-24 00:00:00,NEGATIV
+X,FEMININ,60,2020-04-20 00:00:00,"FEBRA, TUSE, GREATA",2020-04-25 00:00:00,"TUSE.  FEBRA , GREATA",SUSPICIUNE SARS COV2; PNEUMONIE INTERSTITIALA,NU,NU,NU,2020-04-25 00:00:00,POZITIV
+Y,FEMININ,57,2020-04-02 00:00:00,"TUSE SEACA,CEFALEE",2020-04-02 00:00:00,"TUSE,CEFALEE","SUSP.COVID 19,PNEUMONIE BILATERALA",NU,NU,NU,2020-04-25 00:00:00,NEGATIV
+X,FEMININ,25,NU,ASIMPTOMATICA,25.04 2020,ASIMPTOMATICA,"GIPI Sarcina 40/41 sapt. Fat viu, unic. M.I. Prezentatie craniana. Bazin osos normal. Debut de travaliu",NU,0,NU,2020-04-25 00:00:00,NEGATIV
+X,FEMININ,33,NU,ASIMPTOMATICA,2020-04-25 00:00:00,ASIMPTOMATICA,GIIPII. SARCINA 30/31 SAPTAMINI. FAT VIU. PREZENTATIE CEFALICA. MEMBRANE INTACTE. BAZIN OSOS  NORMAL. RO. INSUFICIENTA CERVICO-ISTMICA CORECTATA PRIN CERCLAJ. ,NU,0,NU,2020-04-25 00:00:00,NEGATIV
+Y,FEMININ,56,2020-04-22 00:00:00,"dureri abdominale, oprirea tranzit intestinal",2020-04-25 00:00:00,"dureri abdominale, oprirea tranzit intestinal","SUSP.INF.COVID,NEO RENAL STG OP",NU,NU,NU,2020-04-25 00:00:00,NEGATIV
+X,FEMININ,43,2020-04-25 00:00:00,Suspiciune infectie SARS-COV-2,2020-04-25 00:00:00,"sindrom febril,dispnee la efort, astenie",Suspiciune infectie SARS-COV-2,Nu,Nu,Nu,2020-04-25 00:00:00,NEGATIV
+Y,MASCULIN,78,2020-04-25 00:00:00,"varsaturi, dispnee,tuse,toracalgii",2020-04-26 00:00:00,"varsaturi, dispnee,tuse,toracalgii","SUSP.INF.COVID,PLEUREZIE STG.,HTA ST II ",NU,NU,NU,2020-04-25 00:00:00,NEGATIV
+X,MASCULIN,44,25.04 2020,asimptomatic,2020-04-25 00:00:00,Nu are,Retard mental cu tulburari de comportament,nu ,nu e cazul,nu,2020-04-25 00:00:00,NEGATIV
+Y,MASCULIN,82,2020-04-18 00:00:00,"GRETURI, LIPSA POFTEI SDE MANCARE  ",2020-04-26 00:00:00,"ASTENIA MARCATA,GREATA.",SUSPICIUNE INFECTIE CU COVID-19   SINDROM ICTERIC CARDIOPATIE  MIXTA MELANOM MALIGN OPERAT,NU ARE,NU,NU,2020-04-25 00:00:00,NEGATIV
+Y,MASCULIN,47,2020-07-05 00:00:00,PLAGA INFECTATA MB. INFERIOR STG. POST AMPUTATIE,2020-07-07 00:00:00,NECROZA TEGUMENTARA LOCALA CU SUPURATIE PICIOR STG.,"GANGRENA DIABETICA PICIOR STG., BOALA CRONICA DE RINICHI GRD. V, SUSPICIUNE SARS COV 2",NU,NU,NU,2020-04-25 00:00:00,NEGATIV
+X,FEMININ,41,NU,ASIMPTOMATICA,2020-04-25 00:00:00,ASIMPTOMATICA,Abces tubo-ovarian stang cu reactie pelviperitoneala,NU,0,NU,2020-04-25 00:00:00,NEGATIV
+X,MASCULIN,32,2020-04-22 00:00:00,"febra, frison, disfagie, agenzie",2020-04-25 00:00:00,"febra, frison, disfagie, agenzie","SUSP.INF.COVID, PNEUMONIE INTERSTITIALA",NU,NU,DA,2020-04-25 00:00:00,NEGATIV
+Y,FEMININ,34,NU,ASIMPTOMATICA,2020-04-25 00:00:00,ASIMPTOMATICA,ENDOMETRITA HEMORAGICA POST AB ? ANEXITA MACROLEZIONALA STANGA.SUSPECT SARCINA EXTRAUTERINA,NU,0,NU,2020-04-25 00:00:00,NEGATIV
+X,FEMININ,80,2020-04-25 00:00:00,DURERI MUSCULARE. SINDROM FEBRIL.,2020-04-25 00:00:00,DURERI MUSCULARE. SINDROM FEBRIL.,SUSPECT COVID-19. INFECTIE DE TRACT URINAR.,NU ARE,NU,NU,2020-04-25 00:00:00,NEGATIV
+X,FEMININ,31,NU,ASIMPTOMATICA,2020-04-25 00:00:00,ASIMPTOMATICA,GIPISARCINA 38/39 SAPTAMINI .FAT VIU. PREZENTATIE PELVIANA. MEMBRANE INTACTE. BAZIN OSOS NORMAL. RO. ANEMIE SECUNDARA. DEBUT DE TRAVALIU. ALERGICA LA AMPICILINA SI OXACILINA.,NU,0,NU,2020-04-25 00:00:00,NEGATIV
+X,MASCULIN,2,2020-04-23 00:00:00,TUSE,2020-04-25 00:00:00,TUSE,"PNEUMOPATIE,IACRS",0,0,1,2020-04-25 00:00:00,NEGATIV
+Y,FEMININ,48,2020-04-23 00:00:00,"tuse, odinofagie,febra, anosmie",2020-04-25 00:00:00,"tuse, odinofagie,febra, anosmie","SUSP.INF.COVID,BRONHOPNEUMONIE",NU,NU,NU,2020-04-25 00:00:00,POZITIV
+Y,FEMININ,79,2020-04-22 00:00:00,"febra, astenie,vertij",2020-04-25 00:00:00,"febra, astenie,vertij","SUSP.INF.COVID,PNEUMOPATIE INTERSTITIALA, HTA",NU,NU,NU,2020-04-25 00:00:00,NEGATIV
+X,MASCULIN,65,25.04.2020,DURERE TORACICA,00:00:00,USOARE,SINDROM CORONARIAN ACUT,0,0,0,2020-04-25 00:00:00,NEGATIV
+X,FEMININ,21,NU,ASIMPTOMATICA,2020-04-25 00:00:00,ASIMPTOMATICA,"GIPI Sarcina 39 sapt. Fat viu, unic. M.I. Prezentatie craniana. Bazin osos normal. Debut de travaliu",NU,0,NU,2020-04-25 00:00:00,NEGATIV
+X,MASCULIN,57,2020-04-24 00:00:00,ASIMPTOMATIC,2020-04-25 00:00:00,ORTOPEDIE SI TRAUMATOLOGIE,ASIMPTOMATIC COVID,"DURERE GAMBA STG,IMPOTENTA FUNCTIONALA GAMBA STG",NU E CAZUL,NU E CAZUL,2020-04-25 00:00:00,NEGATIV
+Y,FEMININ,68,2020-05-06 00:00:00,ASIMPTOMATIC,2020-05-06 00:00:00,ASIMPTOMATIC,"AFEBRIL, NEO COLON",NEAGA,NU ESTE CAZUL,NU ȘTIE,2020-04-25 00:00:00,NEGATIV
+Y,FEMININ,63,2020-04-25 00:00:00,ASIMPTOMATIC,"25,04,2020",ASIMPTOMATIC COVID,"EPISTAXIS,HTA ",NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-25 00:00:00,NEGATIV
+X,FEMININ,50,2020-04-21 00:00:00,"TUSE, FEBRA",2020-04-24 00:00:00,"CEFALEE, TUSE",SUSPICIUNE SARS COV2; NEO COL UTERIN OPERAT,NU,NU,DA,2020-04-25 00:00:00,POZITIV
+X,FEMININ,17,2020-04-26 00:00:00,"agitatie psihomotorie , ingestie voluntara alcool etilic",2020-04-26 00:00:00,"agitatie psihomotorie , ingestie voluntara alcool etilic","Agitatie psihomotorie ,Tulburari comportamentale ,Ingestie voluntara alcool etilic",NU,NU,NU,2020-04-26 00:00:00,NEGATIV
+X,FEMININ,17,2020-04-26 00:00:00,"cefalee frontala ,subfebrilitati ,lombalgii ,greturi",2020-04-26 00:00:00,"cefalee frontala ,subfebrilitati ,lombalgii ,greturi","Faringo-amigdalita acuta ,Sinuzita frontala in observatie,Colica renala dreapta ,Suspect ITU",NU,NU,NU,2020-04-26 00:00:00,NEGATIV
+Z,MASCULIN,49,2020-04-27 00:00:00,"febra ,dispnee",2020-04-27 00:00:00,dispnee,"Insuficienta respiratorie,AVC ischemic.Suspiciune COVID 19",NU,NU,NU,2020-04-26 00:00:00,NEGATIV
+X,FEMININ,9,2020-04-26 00:00:00,ASIMPTOMATIC,2020-04-26 00:00:00,ASIMPTOMATIC,FARA,NU,NU,NU,2020-04-26 00:00:00,NEGATIV
+X,FEMININ,60,2020-04-23 00:00:00,"FATIGABILITATE MARCATA,OLIGURIE,EDEME MB.INF.",2020-04-26 00:00:00,"FATIGABILITATE MARCATA,EDEME MB.INF,OLIGURIE","SUS.INF.COVID,INSUF.CARDIACA CONGEST. NYHAIII",NU,NU,NU,2020-04-26 00:00:00,NEGATIV
+Y,FEMININ,77,2020-04-26 00:00:00,"febra ,dispnee",2020-04-26 00:00:00,dispnee,"Insuficenta respiratorie, AVC ischemic.Suspiciune COVID 19",NU,NU,NU,2020-04-26 00:00:00,NEGATIV
+X,FEMININ,29,NU,ASIMPTOMATICA,2020-04-26 00:00:00,ASIMPTOMATICA,GVIPVI.SARCINA 39 SAPTAMINI . FAT VIU UNIC . MEMBRANE RUPTE. PREZENTATIE CRANIANA. BAZIN EUTOCIC. RO. SARCINA INSUFICIENT INVESTIGATA. MULTIPARITATE. ANEMIE SECUNDARA.,NU,0,NU,2020-04-26 00:00:00,NEGATIV
+X,MASCULIN,72,2020-04-24 00:00:00,"JUNGHI TORACIC,DISPNEE",2020-04-27 00:00:00,"JUNGHI TORACIC,DISPNEE","SUSP.INF.COVID,INSUF.CARDIACA NYHAIII",NU,NU,NU,2020-04-26 00:00:00,NEGATIV
+X,MASCULIN,32,2020-04-23 00:00:00,"DURERI ABDOMINALE,ASTENIE,GRETURI,VARSATURI",2020-04-26 00:00:00,"DURERI ABDOMINALE,ASTENIE,GREATA,VARSATURI","SUSP.INF.COVID, PANCRETITA ACUTA",NU,NU,NU,2020-04-26 00:00:00,NEGATIV
+Y,FEMININ,76,2020-04-18 00:00:00,"tuse,",2020-04-26 00:00:00,tuse,"SUSP.INF.COVID 19,PNEUMONIE INTERSTITIALA",NU,NU,NU,2020-04-26 00:00:00,NEGATIV
+Y,FEMININ,30,2020-04-26 00:00:00,ANASARCA,2020-04-26 00:00:00,"DURERI ABDOMINALE,ASTENIE,FATIGABILITATE","SUSP.INF.COVID,ASCITA DE ETIOLOGIE NESPECIFICATA",NU,NU,NU,2020-04-26 00:00:00,NEGATIV
+Y,FEMININ,86,2020-04-26 00:00:00,AFAZIE,2020-04-26 00:00:00,TULBURARI DE VORBIRE,SUSPECT COVID-19. AVC ISCHEMIC,NU ARE,NU,NU,2020-04-26 00:00:00,NEGATIV
+X,MASCULIN,56,25.04.2020,Suspiciune infectie SARS-COV-2,2020-04-24 00:00:00,"febra,tuse seaca,dispnee,mialgii",Suspiciune infectie SARS-COV-2,Nu,Nu,Nu,2020-04-26 00:00:00,NEGATIV
+Y,FEMININ,56,2020-04-21 00:00:00,"TUSE SEACA,FEBRA,VARSATURI BILIOASE",2020-04-26 00:00:00,"TUSE SEACA,FEBRA,VARSATURI BILIOASE","SUSP.INF.COVID,PLEUREZIE STG.,HTA ST II ",NU,NU,NU,2020-04-26 00:00:00,NEGATIV
+Y,FEMININ,37,"26,04,2020",ASIMPTOMATIC,1900-01-26 01:00:31,ASIMPTOMATIC COVID,"CEFALEE,DURERI FOSA ILIACA DR",NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-26 00:00:00,NEGATIV
+Y,MASCULIN,75,2020-04-26 00:00:00,ASIMPTOMATIC,2020-04-26 00:00:00,ASIMPTOMATIC COVID,"TCC,CONTUZIE HEMORAGICA,FRACTURA TEMPORAL BILATERAL,HEMORAGIE SUBARAHNOIDIANA,HEMATOM SUBDURAL ",NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-26 00:00:00,NEGATIV
+X,FEMININ,58,2020-04-27 00:00:00,ASIMPTOMATIC,2020-04-27 00:00:00,ASIMPTOMATIC,"AFEBRIL, NEO MAMAR",NEAGĂ,NU ESTE CAZUL,NU ȘTIE,2020-04-27 00:00:00,NEGATIV
+X,FEMININ,65,2020-04-27 00:00:00,ASIMPTOMATIC,2020-04-27 00:00:00,ASIMPTOMATIC,"AFEBRIL, NEO COLON",NEAGĂ,NU ESTE CAZUL,NU ȘTIE,2020-04-27 00:00:00,NEGATIV
+Z,FEMININ,53,2020-04-24 00:00:00,"FEBRA,TUSE SEACA",2020-04-27 00:00:00,"FEBRA,TUSE SEACA","SUSP.INF.COVID 19,PNEUMONIE DREAPTA",NU,NU,NU,2020-04-27 00:00:00,POZITIV
+Z,FEMININ,69,2020-04-27 00:00:00,TUSE DISFAGIE,2020-04-27 00:00:00,"TUSE DISFAGIE , FEBRA ",SUSPICIUBNE COVID 19 POLIMIOZITA PRIMARA,NU ,NU,NU,2020-04-27 00:00:00,NEGATIV
+X,FEMININ,24,2020-04-27 00:00:00,asimptomatic,2020-04-27 00:00:00,Nu are,Agitatie psihomotorie.Tulburare psihotica oegnica,nu ,nu e cazul,nu,2020-04-27 00:00:00,NEGATIV
+X,MASCULIN,51,"27,04,2020",asimptomatic,2020-04-27 00:00:00,Nu are,Tulburare deliranta persistenta ,nu ,nu e cazul,nu,2020-04-27 00:00:00,NEGATIV
+X,FEMININ,67,2020-04-27 00:00:00,asimptomatic,27.04.2020,Nu are,Tulburare deliranta persistenta ,nu ,nu e cazul,nu,2020-04-27 00:00:00,NEGATIV
+X,FEMININ,73,2020-04-27 00:00:00,ASIMPTOMATIC,2020-04-27 00:00:00,ASIMPTOMATIC,"AFEBRIL, NEO MAMAR",NEAGĂ,NU ESTE CAZUL,NU ȘTIE,2020-04-27 00:00:00,NEGATIV
+X,MASCULIN,49,2020-04-24 00:00:00,DISFAGIE   TUSE SEACA,2020-04-27 00:00:00,TUSE SEACA  DISFAGIE,"SUSPICIUNE  COVID   19, PNEUMONIE INTERSTITIALA",NU ,NU,NU,2020-04-27 00:00:00,NEGATIV
+Z,MASCULIN,1 LUN,2020-05-04 00:00:00,ASIMPTOMATIC,2020-05-01 00:00:00,ASIMPTOMATIC,FARA,NU,NU,NU,2020-04-27 00:00:00,NEGATIV
+X,FEMININ,27,NU,ASIMPTOMATICA,"27,04,2021",ASIMPTOMATICA,Sarcina cu locxalizare neprecizata. Suspect SEU. Uter cicatricial,NU,0,NU,2020-04-27 00:00:00,NEGATIV
+Z,FEMININ,10,2020-04-27 00:00:00,ASIMPTOMATIC,2020-04-27 00:00:00,ASIMPTOMATIC,FARA,NU,NU,NU,2020-04-27 00:00:00,NEGATIV
+X,FEMININ,69,2020-04-27 00:00:00,ASIMPTOMATIC,2020-04-27 00:00:00,ASIMPTOMATIC,"AFEBRIL, NEO MAMAR",NEAGĂ,NU ESTE CAZUL,NU ȘTIE,2020-04-27 00:00:00,NEGATIV
+X,FEMININ,62,2020-04-27 00:00:00,ASIMPTOMATIC,2020-04-27 00:00:00,ASIMPTOMATIC,"AFEBRIL, NEO MAMAR",NEAGĂ,NU ESTE CAZUL,NU ȘTIE,2020-04-27 00:00:00,NEGATIV
+Z,MASCULIN,41,2020-04-27 00:00:00,"TUSE,,DISPNEE",2020-04-27 00:00:00,"TUSE,DISPNEE","SUSP.INF.COVID 19,ASTM BRONSIC ",NU,NU,NU,2020-04-27 00:00:00,NEGATIV
+X,FEMININ,61,2020-04-27 00:00:00,ASIMPTOMATIC,2020-04-27 00:00:00,ASIMPTOMATIC,"AFEBRIL, NEO MAMAR",NEAGĂ,NU ESTE CAZUL,NU ȘTIE,2020-04-27 00:00:00,NEGATIV
+Z,FEMININ,54,27.04.2020,"DISPNEE DE REPAUS, FATIGABILITATE",27.04.2020,DISPNEE DE REPAUS,TEP CU RISC INTERMEDIAR INALT,0,0,0,2020-04-27 00:00:00,NEGATIV
+Y,MASCULIN,7,25.04.2020,"FEBRA,SCAUNE DIAREICE",27.04.2020,DURERI ABDOMINALE,CAZ SUSPECT COVID-19,0,0,DA,2020-04-27 00:00:00,NEGATIV
+Z,MASCULIN,37,2020-04-27 00:00:00,DURERE MEMBRU SUPERIOR DREPT,2020-04-27 00:00:00,DURERE MEMBRU SUPERIOR DREPT, FRACTURA  TRANSVERSALA CU DEPLASARE 1/3 MEDIE DIAFIZA RADIALA DREAPTA,NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-27 00:00:00,NEGATIV
+Z,FEMININ,6,2020-04-27 00:00:00,ASIMPTOMATIC,2020-04-27 00:00:00,ASIMPTOMATIC,FARA,NU,NU,NU,2020-04-27 00:00:00,NEGATIV
+Z,MASCULIN,65,2020-04-27 00:00:00,DURERE LA NIVELUL MEMBRELOR INFERIOROARE,2020-04-27 00:00:00,DURERE LA NIVELUL MEMBRELOR INFERIOROARE,GANGRENA ARTERITICA MEMBRU INFERIOR DREPT,NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-27 00:00:00,NEGATIV
+X,FEMININ,22,NU,ASIMPTOMATICA,2020-04-27 00:00:00,ASIMPTOMATICA,GIII PII.SARCINA 39 SAPTAMANI.FAT VIU.MEMBRANE INTACTE.PREZENTATIE CEFALICA.BAZIN OSOS NORMAL.RO.UTER CICATRICIAL.SARCINA ISUFICIENT URMARITA.FUMATOARE.,NU,0,NU,2020-04-27 00:00:00,NEGATIV
+Z,MASCULIN,30,2020-04-27 00:00:00,"DURERE REGIUNE MANDIBULARA,TRAUMATISM FACIAL",2020-04-27 00:00:00,"DURERE REGIUNE MANDIBULARA,TRAUMATISM  FACIAL",FRACTURA DE MANDIBULA BIFOCALA CU DEPLASARE IN URMA UNEI AGRESIUNI,NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-27 00:00:00,NEGATIV
+Z,MASCULIN,80,2020-04-27 00:00:00,VARSATURI,2020-04-27 00:00:00,VARSATURI ,SUSPICIUNE COVID 19.   HTA   LACUNARISM  CEREBRAL  FIA  CARDIOPATIE ISCHEMICA,NU,NU,NU,2020-04-27 00:00:00,NEGATIV
+X,MASCULIN,66,2020-04-27 00:00:00,ASIMPTOMATIC,2020-04-27 00:00:00,ASIMPTOMATIC,"AFEBRIL, NEO COLON",NEAGĂ,NU ESTE CAZUL,NU ȘTIE,2020-04-27 00:00:00,NEGATIV
+Z,MASCULIN,60,2020-04-27 00:00:00,"DISPNEE,ASCITA,DURERE ABD",2020-04-27 00:00:00,"DISPNEE,ASCITA,DURERE ABD","SUSP.INF COVID 19,CIROZA HEPATICA DECOMPENSATA",NU,NU,NU,2020-04-27 00:00:00,NEGATIV
+Z,FEMININ,67,2020-04-27 00:00:00,"DISPNEE,TUSE",2020-04-27 00:00:00,"DISPNEE,TUSE","SUSP.INF.COVID 19,HTA,ANGINA PECTORALA",NU,NU,NU,2020-04-27 00:00:00,NEGATIV
+Z,FEMININ,82,2020-04-27 00:00:00,"FEBRA,TUSE,DISPNEE",2020-04-27 00:00:00,"FEBRA,TUSE,DISPNEE","SUSP.INF.COVID 19,PNEUMONIE BILATERALANU",NU,NU,NU,2020-04-27 00:00:00,POZITIV
+X,FEMININ,77,2020-04-27 00:00:00,ASIMPTOMATIC,2020-04-27 00:00:00,ASIMPTOMATIC,"AFEBRIL, NEO MAMAR",NEAGĂ,NU ESTE CAZUL,NU ȘTIE,2020-04-27 00:00:00,NEGATIV
+X,MASCULIN,15,2020-04-24 00:00:00,"dureri abdominale ,disurie ",2020-04-27 00:00:00,"Afebril,apetent ,buze uscate , faringe discret congestionat","Colica renala , Suspect ITU ,Angina acuta ",NU ,NU,NU,2020-04-27 00:00:00,NEGATIV
+Y,FEMININ,81,2020-07-10 00:00:00,DURERE SI IMPOTENTA ,2020-07-10 00:00:00,"DURERE SOLD STANG POST CONTUZIE,IMPOTENTA FUNCTIONALA",DURERE SOLD STANG,NU,NU,NU,2020-04-27 00:00:00,POZITIV
+X,FEMININ,44,NU,ASIMPTOMATICA,2020-04-27 00:00:00,ASIMPTOMATICA,AVORT INCOMPLET LUNA II/III,NU,0,NU,2020-04-27 00:00:00,NEGATIV
+X,FEMININ,35,NU,ASIMPTOMATICA,2020-04-27 00:00:00,ASIMPTOMATICA,GIII PII.SARCINA 37/38SAPTAMANI.FAT VIU.MEMBRANE INTACTE.PREZENTATIE CEFALICA.BAZIN OSOS NORMAL.RO.UTER CICATRICIAL.,NU,0,NU,2020-04-27 00:00:00,NEGATIV
+X,FEMININ,46,2020-04-27 00:00:00,ASIMPTOMATIC,2020-04-27 00:00:00,ASIMPTOMATIC,"AFEBRIL, NEO MAMAR",NEAGĂ,NU ESTE CAZUL,NU ȘTIE,2020-04-27 00:00:00,NEGATIV
+Z,MASCULIN,44,2020-04-27 00:00:00,TUSE  MIALGII,2020-04-27 00:00:00,AFEBRIL TUSE NIALGII,SUSPICIUNE   COVID 19 ,NU,NU,NU,2020-04-27 00:00:00,NEGATIV
+Z,MASCULIN,77,2020-04-23 00:00:00,"FEBRA,TUSE",2020-04-27 00:00:00,"FEBRA,TUSE","SUSP.INF COVID 19,PNEUMOPATIE",NU,NU,NU,2020-04-27 00:00:00,NEGATIV
+X,FEMININ,31,NU,ASIMPTOMATICA,2020-04-27 00:00:00,ASIMPTOMATICA,"G II PI SARCINA 38/39 SAPTAMANI. FAT VIU,UNIC. M.I. PREZ. CEFALICA.BAZIN OSOS NORMAL.RO. OBEZITATE. MIOPIE",NU,0,NU,2020-04-27 00:00:00,NEGATIV
+Z,MASCULIN,61,2020-04-27 00:00:00,DURERI HEMITORACE STG,2020-04-27 00:00:00,DURERI HEMITORACE STG,"TRAUMATISM TORACIC,FRACTURI ARC COSTAL V-XI",NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-27 00:00:00,NEGATIV
+X,FEMININ,26,NU,ASIMPTOMATICA,2020-04-27 00:00:00,ASIMPTOMATICA,G III PIII SERCINA 37/38 SAPTAMANI FAT VIU UNIC MI BAZIN OSOS NORMAL UTER DUBLU CICATRICEAL ANEMIE SECUNDARA,NU,0,NU,2020-04-27 00:00:00,NEGATIV
+Z,MASCULIN,48,2020-04-20 00:00:00,TUSE,2020-04-27 00:00:00,TUSE," SUSP.INF.COVID 19,HEMOPTIZIE,SECHELE TBC PULMONAR",NU,NU,NU,2020-04-27 00:00:00,NEGATIV
+Z,FEMININ,55,2020-04-02 00:00:00,"DURERI ABDOMINALE, DIAREE",27.04.2020,DURERI ABDOMINALE  DIAREE,SUSPICIUNE   COVID 19. SINDROM SUBOCLUZIV SINDROM DIAREIC STATUS POST COLON OPERAT,NU,NU,NU,2020-04-27 00:00:00,NEGATIV
+Z,MASCULIN,48,2020-04-27 00:00:00,"ASTENIE  ,TEGUMENTE PALIDE OBOSEALA",2020-04-27 00:00:00,"ASTENIE MARCATA,",SUSPICIUNE COVID19 ANEMIE SEVERA  LEUCEMIE CR,NU,NU,NU,2020-04-27 00:00:00,NEGATIV
+X,MASCULIN,71,2020-04-27 00:00:00,ASIMPTOMATIC,2020-04-27 00:00:00,ASIMPTOMATIC,"AFEBRIL, NEO COLON",NEAGĂ,NU ESTE CAZUL,NU ȘTIE,2020-04-27 00:00:00,NEGATIV
+Z,MASCULIN,66,2020-04-27 00:00:00,"DISPNEE, EPIGASTRALGII",27.04.2020,"DISPNEE, EPIGASTRALGII",SUSPICIUNE   COVID 19. CHISTE PANCREATICE  TUMORA  COLEDOC OPERAT,NU,NU,NU,2020-04-27 00:00:00,NEGATIV
+X,FEMININ,39,NU,ASIMPTOMATICA,2020-04-28 00:00:00,ASIMPTOMATICA,TUMORA CHISTICA OVARIANA VOLUMINOASA,NU,0,NU,2020-04-28 00:00:00,NEGATIV
+X,FEMININ,27,NU,ASIMPTOMATICA,2020-04-28 00:00:00,ASIMPTOMATICA,"G II P II SARCINA 33 SAPTAMANI. FAT VIU, UNIC. PREZENTATIE CEFALICA. MI. BAZIN EUTOCIC. ANP. ROC. UTER CICATRICIAL.PLACENTA JOS ISERATA",NU,0,NU,2020-04-28 00:00:00,NEGATIV
+X,FEMININ,66,2020-04-28 00:00:00,asimptomatic,2020-04-28 00:00:00,nu are,Tulburari de comportament corelate cu consumul de alcool.,nu ,nu e cazul,nu,2020-04-28 00:00:00,NEGATIV
+X,FEMININ,17,NU,ASIMPTOMATICA,2020-04-28 00:00:00,ASIMPTOMATICA,"G II P I SARCINĂ 38 SĂPTĂMÂNI. FĂT VIU, UNIC. PREZ. CRANIANĂ. M.I. BAZIN OSOS NORMAL. DEBUT DE TRAVALIU. ROC. RCIU. OLIGOAMNIOS. PREECLAMPSIE FORMA MEDIE",NU,0,NU,2020-04-28 00:00:00,NEGATIV
+Z,MASCULIN,29,2020-04-27 00:00:00,"TCC ACUT PRIN ACCIDENT RUTIER,POLITRAUMATISM",2020-04-28 00:00:00,"TCC ACUT PRIN ACCIDENT RUTIER,POLITRAUMATISM","TCC ACUT INCHIS PRIN ACCIDENT RUTIER,CONTUZIE ZONA LOMBARA,ECHIMOZA LOMBARA DREAPTA,TRAUMATISM COT DREPT,PLAGA CONTUZA COT DREPT",NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-28 00:00:00,NEGATIV
+Z,FEMININ,1luna,2020-04-28 00:00:00,scaune diareice,2020-04-28 00:00:00,"Subfebrilitate ,tegumente marmorate ,eritem fesier ,faringe congestiv,pulmonar MV normal transmis ,abdomen moale ,permite palparea,pliu latero-abdominal mai lenes",BDA .SAD gradul II .Angina acuta .Eritem fesier,Nu,Nu,Nu,2020-04-28 00:00:00,NEGATIV
+X,MASCULIN,39,2020-04-27 00:00:00,"HEMOPTIZIE,TUSE,DISPNEE",2020-04-28 00:00:00,"HEMOPTIZIE,TUSE,DISPNEE","SUSP.INF.COVID 19,HEMOPTIZIE",NU,NU,NU,2020-04-28 00:00:00,NEGATIV
+Z,FEMININ,81,2020-04-26 00:00:00,"VARSATURI, DURERI ABDOMINALE DIFUZE",2020-04-28 00:00:00,"VARSATURI, DURERI ABDOMINALE DIFUZE, STARE GENERALA INFLUENTATA","SDR ACUT DE DESHIDRATARE, HTA, CIC, AVC SECHELAR, SUSPICIUNE COVID 19",NU,NU,NU,2020-04-28 00:00:00,NEGATIV
+X,MASCULIN,52,2020-04-27 00:00:00,asimptomatic,27.04.2020,Nu are,Tulburari de comportament corelate cu consumul de alcool.,nu ,nu e cazul,nu,2020-04-28 00:00:00,NEGATIV
+X,FEMININ,41,NU,ASIMPTOMATICA,2020-04-28 00:00:00,ASIMPTOMATICA,TUMORĂ OVARIANĂ STÂNGĂ ( ENDOMETRIOM ) VOLUMINOASĂ ŞI COMPRESIVĂ,NU,0,NU,2020-04-28 00:00:00,NEGATIV
+Z,MASCULIN,41,2020-04-27 00:00:00,"FEBRA, TREMOR GENERALIZAT",2020-04-28 00:00:00,"FEBRA, TREMOR GENERALIZAT","SDR FEBRIL, PNEUMONIE INTERSTITIALA, RETARD MENTAL, SUSPICIUNE COVID 19",NU,NU,NU,2020-04-28 00:00:00,NEGATIV
+X,FEMININ,27,NU,ASIMPTOMATICA,2020-04-28 00:00:00,ASIMPTOMATICA,"SARCINA EXTRAUTERINA DREAPTA ( 1,6cm ) NERUPTA. CHIST OVARIAN STANG",NU,0,NU,2020-04-28 00:00:00,NEGATIV
+Z,FEMININ,9 LUNI,2020-04-27 00:00:00,ASIMPTOMATIC,2020-04-28 00:00:00,ASIMPTOMATIC,FARA,NU,NU,NU,2020-04-28 00:00:00,NEGATIV
+X,FEMININ,47,2020-07-10 00:00:00,INFLAMATIE SI SUPURATIE LA NIVELUL GAMBEI DR.,2020-07-13 00:00:00,INFLAMATIE SI SUPURATIE LA NIVELUL GAMBEI DR.,PLAGA CONTUZA GAMBA DREPTA SUPRAINFECTATA,NU,NU,NU,2020-04-28 00:00:00,NEGATIV
+Z,MASCULIN,70,2020-04-26 00:00:00,"TUSE,JUNGHI TORACIC,FEBRA",2020-04-28 00:00:00,"TUSE,JUNGHI TORACIC,FEBRA","SUSP.INF.COVID 19,PNEUMOPATIE INTERST,FIA,HTA STII",NU,NU,NU,2020-04-28 00:00:00,NEGATIV
+X,FEMININ,24,NU,ASIMPTOMATICA,2020-04-28 00:00:00,ASIMPTOMATICA,GI PI SARCINA LUNA A IX -A.FAT MORT ANTEPARTUM.BAZIN OSOS NORMAL.M I.DEBUT DE TRAVALIU,NU,0,NU,2020-04-28 00:00:00,NEGATIV
+Z,MASCULIN,53,2020-04-28 00:00:00,ASIMPTOMATIC,2020-04-28 00:00:00,ASIMPTOMATIC,OCLUZIE INTESTINALA,NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-28 00:00:00,NEGATIV
+Z,MASCULIN,67,28.04.2020,DURERE TORACICA,28.04.2020,DURERE TORACICA,SINDROM CORONARIAN ACUT,0,0,0,2020-04-28 00:00:00,NEGATIV
+Z,MASCULIN,69,2020-04-27 00:00:00,DURERI ABDOMINALE,2020-04-28 00:00:00,"DURERI ABDOMINALE,HEMATEMEZA, MELENA ",HEMORAGIE DIGESTIVA SUPERIOARA .SECHELE AVC,NU,NU,NU,2020-04-28 00:00:00,NEGATIV
+Z,MASCULIN,51,2020-04-28 00:00:00,"DISPNEE,FEBRA","28,04,2020","DISPNEE,FEBRA",INSUFICIENTA RESPIRATORIE,NU,NU,NU SE STIE,2020-04-28 00:00:00,NEGATIV
+Z,FEMININ,78,2020-04-28 00:00:00,FEBRA TUSE,2020-04-28 00:00:00,FEBRA TUSE DISPNEE GRETURI ,SUSPICIUNE SARS COV 19  PNUMOPATIE ACUTA DREAPTA   HTA  ST  II  TBC PULMONAR SECHELAR  AVC  SECHELAR SINDROM FEBRIL ,NU,NU,NU,2020-04-28 00:00:00,NEGATIV
+Z,FEMININ,53,2020-04-24 00:00:00,"DISPNEE,FRISON",2020-04-26 00:00:00,"ASTENIE,DISPNEE","SUSP.INF.COVID, VIROZA RESPIRATORIE",NU,NU,DA,2020-04-28 00:00:00,NEGATIV
+Z,MASCULIN,4 LUNI,2020-04-26 00:00:00,"tuse productiva,scaune apoase,febra", 28.04.2020,"stare generala influentata ,faringe congestiv,abdomen moale,TI accelerat ,palid,tegumente marmorate ,somnolent ",Bronsiolita acuta cu IRA .BDA .SAD gradul II,Nu,Nu,Nu,2020-04-28 00:00:00,NEGATIV
+Z,MASCULIN,50,2020-04-28 00:00:00,ASIMPTOMATIC,2020-04-28 00:00:00,ASIMPTOMATIC,APENDICITA ACUTA,NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-28 00:00:00,NEGATIV
+Z,MASCULIN,41,2020-04-27 00:00:00,DURERE LA NIVELUL MEMBRULUI INFERIOR DREPT,2020-04-28 00:00:00,DURERE LA NIVELUL MEMBRULUI INFERIOR DREPT,FRACTURA CU DEPLASARE 1/3 DISTALA TIBIE DREAPTA SI 1/3 PROXIMALA PERONEU DREPT,NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-28 00:00:00,NEGATIV
+Z,FEMININ,79,2020-04-28 00:00:00,FEBRA MIALGII   ASTENI,2020-04-29 00:00:00,FEBRA  MIALGII  ASTENIE,SUSPICIUNE SARS COV  19 PNEUMOPATIE ACUTA   HTA   FIBRILATIE ATRIALA ,NU,NU,NU,2020-04-28 00:00:00,NEGATIV
+Z,FEMININ,52,2020-04-28 00:00:00,"DISPNEE,TUSE","28,04,2020","TUSE,DISPNEE",INSUFICIENTA RESPIRATORIE,NU,NU,NU SE STIE,2020-04-28 00:00:00,NEGATIV
+Z,MASCULIN,44,2020-03-20 00:00:00,"DISPNEE,TUSE,SUBFEBR.",2020-04-28 00:00:00,"DISPNEE,TUSE,SUBFEBRILITATI","SUSP.INF.COVID 19,PRONHOPNEUMONIE SPECIFICA",NU,NU,NU,2020-04-28 00:00:00,NEGATIV
+X,MASCULIN,70,2020-04-27 00:00:00,"DISPNEE,TUSE,FATIGABILITATE",2020-04-28 00:00:00,"DISPNEE,TUSE ,FATIGABILITATE","SUSP.INF.COVID 19,PNEUMONIE DREAPTA",NU,NU,NU,2020-04-28 00:00:00,NEGATIV
+Z,MASCULIN,66,2020-04-21 00:00:00,"TUSE PRODUCTIVA,DISPNEE",2020-04-28 00:00:00,"TUSE PRODUCTIVA,DISPNEE","SUSP.INF.COVID 19,NEOPLASM BRONHOPULMONAR,BPOC",NU,NU,NU,2020-04-28 00:00:00,NEGATIV
+Z,MASCULIN,90,2020-04-28 00:00:00,"HEMATURIE MACROSCOPICA,EDEME GAMBIERE",2020-04-28 00:00:00,"HEMATURIE MACROSCOPICA,EDEME GAMBIERE","SUSP.INF.COVID 19,INSUF.CARDIACA,FIA PERMANENTA,AVC SECHELAR,HTA GRII",NU,NU,NU,2020-04-28 00:00:00,NEGATIV
+X,MASCULIN,86,2020-04-27 00:00:00,DURERE ABD,2020-04-28 00:00:00,DURERE ABD.,"SUSP.INF.COVID 19,SDR SUBOCLUZIV",NU,NU,NU,2020-04-28 00:00:00,NEGATIV
+X,FEMININ,28,NU,ASIMPTOMATICA,2020-04-28 00:00:00,ASIMPTOMATICA,Nastere la domiciliu neasistate. Faza placentara,NU,0,NU,2020-04-28 00:00:00,NEGATIV
+Z,MASCULIN,64,2020-04-21 00:00:00,ASIMPTOMATIC,2020-04-21 00:00:00,"actual 28.04.2020 - febril, tuse, dispnee, leucocite crescute cu limfopenie, probe inflamatorii crescute","FEBRĂ, NEO BRONHOPULMONAR",NEAGĂ,NU ESTE CAZUL,NU ȘTIE,2020-04-28 00:00:00,NEGATIV
+Z,FEMININ,73,2020-04-28 00:00:00,ASIMPTOMATIC,2020-04-28 00:00:00,ASIMPTOMATICA,ANGIOSARCOM BRAT SI ANTEBRAT STANG,NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-28 00:00:00,NEGATIV
+Y,FEMININ,60,2020-04-29 00:00:00,ASIMPTOMATIC,2020-04-29 00:00:00,ASIMPTOMATIC,"AFEBRIL, NEO COLON",NEAGA,NU ESTE CAZUL,NU ȘTIE,2020-04-29 00:00:00,NEGATIV
+X,FEMININ,64,2020-04-06 00:00:00,nu are,2020-04-06 00:00:00,nu are,Retard mental cu tulburari de comportament.,nu,nu e cazul,nu,2020-04-29 00:00:00,NEGATIV
+Z,MASCULIN,35,nu,Asimptomatic,2020-04-29 00:00:00,nu,fractura deschisa gamba stg,nu este cazul,nu,nu,2020-04-29 00:00:00,NEGATIV
+Y,MASCULIN,52,2020-04-29 00:00:00,ASIMPTOMATIC,2020-04-29 00:00:00,ASIMPTOMATIC,"AFEBRIL, NEO RECTO-SIGMOID",NEAGA,NU ESTE CAZUL,NU ȘTIE,2020-04-29 00:00:00,NEGATIV
+Y,FEMININ,39,                                    NU,       ASIMPTOMATICA,       29.04.2020,ASIMPTOMATICA,                      CHIST-ABCES BARTOLIN STANG,NU,0,NU,2020-04-29 00:00:00,NEGATIV
+X,FEMININ,26,                                    NU,       ASIMPTOMATICA,        29.04.2020,ASIMPTOMATICA,"G VI P V SARCINA 37/38 SAPT. FAT VIU, UNIC. PREZ. CEFALICA. M.I. BAZIN OSOS NORMAL.ROC. UTER CVADRUPLU CICATRICIAL. CIRCULARA PERICERVICALA.",NU,0,NU,2020-04-29 00:00:00,NEGATIV
+Z,MASCULIN,32,"29,04,2020","TUSE,FEBRA","29,04,2020","TUSE,FEBRA","SUSP.INF COVID 19,SINDROM HEPATOCITOLITIC",NU,NU,NU,2020-04-29 00:00:00,NEGATIV
+Z,MASCULIN,11,2020-05-20 00:00:00,"reevaluare clinico-biologica , tratament de substitutie",2020-05-20 00:00:00,"Afebril,apetent,tegumente palide,faringe liber,echilibrat cardio-circulator,abdomen moale,suplu,nedureros la palpare , TI prezent ",Anemie hipoplastica congenitala Blackfam Diamond .Hipotrofie staturo-ponderala,Nu,Nu,Nu,2020-04-29 00:00:00,NEGATIV
+Z,FEMININ,51,2020-04-26 00:00:00,TUSE   DURERI TORACICE POSTERIOARE,2020-04-29 00:00:00,TUSE  PARESTEZII MEMBRUL SUPERIOR STANG DURERI TORACICE ,SUSPICIUNE COVID 19  PNEUMOPATIE ACUTA,NU,NU,NU,2020-04-29 00:00:00,NEGATIV
+Y,FEMININ,87,"30,04,2020","TUSE,FEBRA","01,05,2020","TUSE,FEBRA","SUSP.INF COVID 19,HTA,FIA,DEMENTA SENILA,",NU,NU,NU,2020-04-29 00:00:00,NEGATIV
+Z,MASCULIN,84,"29,04,2020","DISPNEE,TUSE CU EXPECTORATII","29,04,2020","DISPNEE,TUSE CU EXPECTORATII","SUSP.INF.COVID 19,INSUFICIENTA RESPIRATORIE ACUTA",NU,NU,NU,2020-04-29 00:00:00,NEGATIV
+Z,MASCULIN,59,2020-04-30 00:00:00,ASIMPTOMATIC COVID,2020-04-30 00:00:00,ASIMPTOMATIC COVID,"TCC acut inchis cu pierdere de constienta prin cadere cu bicicleta.Hematom epidural parietal drept. Contuzie hemoragica temporal stang. Fractura cu usoara deplasare temporal drept. Fracturi costale V, VI, VII drept. Echimoza Etilism acut. Fractura cu deplasare 1/3 medie clasvicula dreapta",NU E CAZUL,NU E CAZUL,NU E CAZUL,2020-04-29 00:00:00,NEGATIV
+Y,FEMININ,64,2020-04-29 00:00:00,ASIMPTOMATIC,2020-04-29 00:00:00,ASIMPTOMATIC,"AFEBRIL, NEO MAMAR",NEAGA,NU ESTE CAZUL,NU ȘTIE,2020-04-29 00:00:00,NEGATIV

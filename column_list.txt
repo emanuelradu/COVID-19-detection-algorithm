@@ -1,0 +1,1 @@
+instituția sursă,sex,vârstă,dată debut simptome declarate,simptome declarate,dată internare,simptome raportate la internare,diagnostic și semne de internare,istoric de călătorie,mijloace de transport folosite,confirmare contact cu o persoană infectată,data rezultat testare,rezultat testare
